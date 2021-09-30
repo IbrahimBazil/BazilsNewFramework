@@ -3,20 +3,21 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
   <parameter name="browser" value="chrome"/>
   <parameter name="version" value="80"/>
-  <parameter name="brand" value="era"/>
+  <parameter name="brand" value="bhgre"/>
   <listeners>
     <listener class-name="listeners.Listeners"/>
   </listeners>
   <test thread-count="5" name="Test(failed)">
     <classes>
-      <class name="recaptcha.HomeDetailsPage">
+      <class name="recaptcha_test.ListView">
         <methods>
           <include name="tearDown"/>
           <include name="launchsite"/>
-          <include name="SaveHomeInDetailsPage"/>
+          <include name="saveSearchListView"/>
+          <include name="HeartIconinListView"/>
           <include name="launchsite"/>
         </methods>
-      </class> <!-- recaptcha.HomeDetailsPage -->
+      </class> <!-- recaptcha_test.ListView -->
     </classes>
   </test> <!-- Test(failed) -->
 </suite> <!-- Failed suite [Suite] -->

@@ -1,16 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
-<suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
-  <test thread-count="5" name="Default test(failed)">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <parameter name="browser" value="chrome"/>
+  <parameter name="version" value="80"/>
+  <parameter name="brand" value="bhgre"/>
+  <listeners>
+    <listener class-name="listeners.Listeners"/>
+  </listeners>
+  <test thread-count="5" name="Test(failed)">
     <classes>
-      <class name="recaptcha_test.AgentWebSite">
+      <class name="recaptcha_test.ListView">
         <methods>
           <include name="tearDown"/>
-          <include name="launchAgentWebsite"/>
-          <include name="contactAgent"/>
+          <include name="launchsite"/>
+          <include name="saveSearchListView"/>
+          <include name="HeartIconinListView"/>
           <include name="launchsite"/>
         </methods>
-      </class> <!-- recaptcha_test.AgentWebSite -->
+      </class> <!-- recaptcha_test.ListView -->
     </classes>
-  </test> <!-- Default test(failed) -->
-</suite> <!-- Failed suite [Default suite] -->
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->
