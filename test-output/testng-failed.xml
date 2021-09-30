@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
+  <test thread-count="5" name="Default test(failed)">
+    <classes>
+      <class name="recaptcha_test.AgentWebSite">
+        <methods>
+          <include name="tearDown"/>
+          <include name="launchAgentWebsite"/>
+          <include name="contactAgent"/>
+          <include name="launchsite"/>
+        </methods>
+      </class> <!-- recaptcha_test.AgentWebSite -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->
