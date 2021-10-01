@@ -85,7 +85,10 @@
 					<version>3.0.0-M5</version>
 					<configuration>
 						<suiteXmlFiles>
-							<suiteXmlFile>testng.xml</suiteXmlFile>
+							<suiteXmlFile>ERA_TestSuite.xml</suiteXmlFile>
+							<suiteXmlFile>C21_TestSuite.xml</suiteXmlFile>
+							<suiteXmlFile>BHGRE_TestSuite.xml</suiteXmlFile>
+							<suiteXmlFile>CB_TestSuite.xml</suiteXmlFile>
 						</suiteXmlFiles>
 					</configuration>
 				</plugin>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+	<listeners>
+		<listener class-name="listeners.Listeners"></listener>
+	</listeners>
+	<parameter name="browser" value="chrome" />
+	<parameter name="version" value="80" />
+	<parameter name="brand" value="C21"/>
+	<test thread-count="5" name="Test">
+
+		<classes>
+			<class name="C21Recaptcha_test.ListViewC21" />
+			<class name="C21Recaptcha_test.HomeDetailsPageC21" />
+			<class name="C21Recaptcha_test.AgentWebSiteC21"/>
+			<class name="C21Recaptcha_test.DirectSignupC21"/>
+		</classes>
+	</test> <!-- Test -->
+</suite> <!-- Suite -->
