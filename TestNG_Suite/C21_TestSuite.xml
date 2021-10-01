@@ -6,13 +6,14 @@
 	</listeners>
 	<parameter name="browser" value="chrome" />
 	<parameter name="version" value="80" />
-	<parameter name="brand" value="bhgre"/>
+	<parameter name="brand" value="C21"/>
 	<test thread-count="5" name="Test">
 
 		<classes>
-			<class name="recaptcha_test.ListView" />
-			<class name="recaptcha_test.HomeDetailsPage" />
-			<class name="recaptcha_test.AgentWebSite"/>
+			<class name="C21Recaptcha_test.ListViewC21" />
+			<class name="C21Recaptcha_test.HomeDetailsPageC21" />
+			<class name="C21Recaptcha_test.AgentWebSiteC21"/>
+			<class name="C21Recaptcha_test.DirectSignupC21"/>
 		</classes>
 	</test> <!-- Test -->
 </suite> <!-- Suite -->

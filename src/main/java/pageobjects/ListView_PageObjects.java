@@ -32,16 +32,29 @@ public class ListView_PageObjects {
 	
 	
 	public void clickSaveSearch() {
-		driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
+		//driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
 		//elu.doClick(saveSearch);
-		js.clickElementByJS(saveSearch);
-		driver.manage().timeouts().implicitlyWait(30, TimeUnit.SECONDS);
+		try {
+			Thread.sleep(10000);
+			js.clickElementByJS(saveSearch);
+			Thread.sleep(5000);
+		} catch (InterruptedException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+		
+		//driver.manage().timeouts().implicitlyWait(30, TimeUnit.SECONDS);
 	}
 	
 	public void clickHeartIconInListView() {
-		driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
-		js.clickElementByJS(HeartIconInListView);
-		driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
+		try {
+			Thread.sleep(10000);
+			js.clickElementByJS(HeartIconInListView);
+			Thread.sleep(5000);
+		} catch (InterruptedException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}	
 	}
 	
 	

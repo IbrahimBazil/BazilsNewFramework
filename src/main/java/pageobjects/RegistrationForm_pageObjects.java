@@ -27,8 +27,8 @@ public class RegistrationForm_pageObjects {
 
 	@FindBy(how = How.XPATH, using = "//iframe[@class='modalfx-iframe']")
 	WebElement frame_ele;
-	
-	@FindBy(how=How.XPATH, using="//iframe[@title='embedded_visit_iframe']")
+
+	@FindBy(how = How.XPATH, using = "//iframe[@title='embedded_visit_iframe']")
 	WebElement frame_tour;
 
 	@FindBy(how = How.XPATH, using = "//input[@id='first_name']")
@@ -57,6 +57,9 @@ public class RegistrationForm_pageObjects {
 
 	@FindBy(how = How.XPATH, using = "//iframe[not(contains(@style,'width: 100%; height: 100%;'))][@title='recaptcha challenge']")
 	WebElement captcha;
+
+	@FindBy(how = How.XPATH, using = "//input[@type='checkbox' and @class='form-std__cb-highlight']")
+	WebElement c21_chckbx;
 
 	public void doRegistrationListView() {
 		// elu.switchFrameByClassName(iframe);
@@ -94,7 +97,7 @@ public class RegistrationForm_pageObjects {
 		;
 		return captcha.isDisplayed();
 	}
-	
+
 	public void doRegistrationWithPhone() {
 		// elu.switchFrameByClassName(iframe);
 		try {
@@ -108,7 +111,7 @@ public class RegistrationForm_pageObjects {
 			String last_name = "qa_" + timeAppender;
 			String email = "qa_" + timeAppender + "@gmail.com";
 			String password = "password";
-			String phonenumber="9941765628";
+			String phonenumber = "9941765628";
 			elu.doSendKeys(firstname_txt, first_name);
 			elu.doSendKeys(lastname_txt, last_name);
 			elu.doSendKeys(email_txt, email);
@@ -122,7 +125,7 @@ public class RegistrationForm_pageObjects {
 		// driver.manage().timeouts().implicitlyWait(30, TimeUnit.SECONDS);
 
 	}
-	
+
 	public void doRegistrationinTourThisHomeHD() {
 		// elu.switchFrameByClassName(iframe);
 		try {
@@ -136,7 +139,7 @@ public class RegistrationForm_pageObjects {
 			String last_name = "qa_" + timeAppender;
 			String email = "qa_" + timeAppender + "@gmail.com";
 			String password = "password";
-			String phonenumber="9941765628";
+			String phonenumber = "9941765628";
 			elu.doSendKeys(firstname_txt, first_name);
 			elu.doSendKeys(lastname_txt, last_name);
 			elu.doSendKeys(email_txt, email);
@@ -150,6 +153,61 @@ public class RegistrationForm_pageObjects {
 		// driver.manage().timeouts().implicitlyWait(30, TimeUnit.SECONDS);
 
 	}
+
+	public void doRegistrationListViewc21() {
+		// elu.switchFrameByClassName(iframe);
+		try {
+			Thread.sleep(5000);
+			elu.switchFrame(frame_ele);
+			Thread.sleep(5000);
+			// driver.switchTo().frame(frame_ele);
+			// driver.manage().timeouts().implicitlyWait(30, TimeUnit.SECONDS);
+			// driver.manage().timeouts().implicitlyWait(50, TimeUnit.SECONDS);
+			String first_name = "qa_" + timeAppender;
+			String last_name = "qa_" + timeAppender;
+			String email = "qa_" + timeAppender + "@gmail.com";
+			String password = "password";
+			String phonenumber = "9941765628";
+			elu.doSendKeys(firstname_txt, first_name);
+			elu.doSendKeys(lastname_txt, last_name);
+			elu.doSendKeys(email_txt, email);
+			elu.doSendKeys(phone_txt, phonenumber);
+			elu.doSendKeys(password_fld, password);
+			js.clickElementByJS(c21_chckbx);
+			js.clickElementByJS(savesearch_btn);
+			//elu.sendKeyAction(password_fld);
+		} catch (InterruptedException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+	}
 	
+	public void doRegistrationinTourThisHomeHDC21() {
+		// elu.switchFrameByClassName(iframe);
+		try {
+			Thread.sleep(5000);
+			elu.switchFrame(frame_tour);
+			Thread.sleep(5000);
+			// driver.switchTo().frame(frame_ele);
+			// driver.manage().timeouts().implicitlyWait(30, TimeUnit.SECONDS);
+			// driver.manage().timeouts().implicitlyWait(50, TimeUnit.SECONDS);
+			String first_name = "qa_" + timeAppender;
+			String last_name = "qa_" + timeAppender;
+			String email = "qa_" + timeAppender + "@gmail.com";
+			String password = "password";
+			String phonenumber = "9941765628";
+			elu.doSendKeys(firstname_txt, first_name);
+			elu.doSendKeys(lastname_txt, last_name);
+			elu.doSendKeys(email_txt, email);
+			elu.doSendKeys(password_fld, password);
+			elu.doSendKeys(phone_txt, phonenumber);
+			js.clickElementByJS(c21_chckbx);
+			elu.sendKeyAction(password_fld);
+		} catch (InterruptedException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+		// driver.manage().timeouts().implicitlyWait(30, TimeUnit.SECONDS);
+	}
 
 }

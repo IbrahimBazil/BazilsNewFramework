@@ -15,7 +15,9 @@ import org.openqa.selenium.TakesScreenshot;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.testng.annotations.AfterClass;
+import org.testng.annotations.AfterTest;
 import org.testng.annotations.BeforeClass;
+import org.testng.annotations.BeforeTest;
 import org.testng.annotations.Optional;
 import org.testng.annotations.Parameters;
 
@@ -24,6 +26,7 @@ import listeners.Listeners;
 import pageobjects.ListView_PageObjects;
 import pageobjects.RegistrationForm_pageObjects;
 import pageobjects.agentWebsite_pageObjects;
+import pageobjects.directSignUp_pageObjects;
 import pageobjects.homeDetails_PageObjects;
 import pageobjects.homePageObjects;
 import utilities.ElementUtils;
@@ -40,6 +43,7 @@ public class BaseTest extends BasePage{
 	public RegistrationForm_pageObjects reg;
 	public homeDetails_PageObjects hdp;
 	public agentWebsite_pageObjects awp;
+	public directSignUp_pageObjects dsp;
 	public static String path1 = System.getProperty("user.dir");
 	public static String OUTPUT_FOLDER = path1 + "//reports//Screenshots//";
 	public String FILE_NAME;
@@ -70,6 +74,7 @@ public class BaseTest extends BasePage{
 		reg=new RegistrationForm_pageObjects(driver);
 		hdp=new homeDetails_PageObjects(driver);
 		awp=new agentWebsite_pageObjects(driver);
+		dsp= new directSignUp_pageObjects(driver);
 
 	}
 

@@ -43,6 +43,11 @@ public class ListView extends BaseTest{
 	
 	@Test(priority=2)
 	public void HeartIconinListView() {
+		try {
+			Thread.sleep(10000);
+		} catch (InterruptedException e) {
+			e.printStackTrace();
+		}
 		lvp.clickHeartIconInListView();
 		reg.doRegistrationListView();
 		if(reg.captchaDisplayed()) {

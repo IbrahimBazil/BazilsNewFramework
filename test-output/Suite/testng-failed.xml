@@ -3,7 +3,7 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
   <parameter name="browser" value="chrome"/>
   <parameter name="version" value="80"/>
-  <parameter name="brand" value="bhgre"/>
+  <parameter name="brand" value="CB"/>
   <listeners>
     <listener class-name="listeners.Listeners"/>
   </listeners>

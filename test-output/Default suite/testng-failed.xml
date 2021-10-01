@@ -3,14 +3,14 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="recaptcha_test.AgentWebSite">
+      <class name="C21Recaptcha_test.ListViewC21">
         <methods>
           <include name="tearDown"/>
-          <include name="launchAgentWebsite"/>
-          <include name="contactAgent"/>
+          <include name="launchsite"/>
+          <include name="saveSearchListViewC21"/>
           <include name="launchsite"/>
         </methods>
-      </class> <!-- recaptcha_test.AgentWebSite -->
+      </class> <!-- C21Recaptcha_test.ListViewC21 -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

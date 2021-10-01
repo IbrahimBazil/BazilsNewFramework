@@ -13,6 +13,7 @@
 			<class name="recaptcha_test.ListView" />
 			<class name="recaptcha_test.HomeDetailsPage" />
 			<class name="recaptcha_test.AgentWebSite"/>
+			<class name="recaptcha_test.DirectSignup"/>
 		</classes>
 	</test> <!-- Test -->
 </suite> <!-- Suite -->
