@@ -31,5 +31,6 @@ public class DirectSignup extends BaseTest {
 	@Test
 	public void DirectSignupContact() {
 		dsp.registerDirectSignup();
+		log.info("Testing the Direct Signup");
 	}
 }
