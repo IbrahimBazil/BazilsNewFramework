@@ -146,7 +146,7 @@ public class BaseTest extends BasePage{
 		String listViewUrl=baseURL+prop.getProperty("listViewURL");
 		String DetailPageURL=baseURL+prop.getProperty("DetailPageURL");
 		String newSignupUrl=baseURL+prop.getProperty("newSignupURL");
-		String logoutUrl=baseURL+prop.getProperty("logoutURL");
+		//String logoutUrl=baseURL+prop.getProperty("logoutURL");
 		
 		if (ValidationUrl.equalsIgnoreCase("BaseUrl")) {
 			driver.get(baseURL);
