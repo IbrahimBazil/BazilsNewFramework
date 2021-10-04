@@ -1,7 +1,5 @@
 package recaptcha_test;
 
-import java.util.concurrent.TimeUnit;
-
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Optional;
 import org.testng.annotations.Parameters;
@@ -34,11 +32,12 @@ public class AgentWebSite extends BaseTest {
 	public void contactAgent() {
 		awp.clickContactAgent();
 		reg.doRegistrationListView();
-		if(reg.captchaDisplayed()) {
+		if (reg.captchaDisplayed()) {
 			log.info("Captcha is Displayed");
 		} else {
 			contactAgent();
 		}
+		log.info("Tesing Completed");
 	}
 
 }
