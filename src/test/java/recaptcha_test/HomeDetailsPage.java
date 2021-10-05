@@ -28,7 +28,7 @@ public class HomeDetailsPage extends BaseTest {
 		}
 	}
 
-	@Test(priority=2)
+	@Test(priority = 2)
 	public void SaveHomeInDetailsPage() {
 		hdp.ClickSaveBtn();
 		reg.doRegistrationListView();
@@ -39,7 +39,7 @@ public class HomeDetailsPage extends BaseTest {
 		}
 	}
 
-	@Test(priority=1)
+	@Test(priority = 1)
 	public void RequestShowing() {
 		hdp.ClickRequestShowingbtn();
 		reg.doRegistrationWithPhone();
@@ -50,7 +50,7 @@ public class HomeDetailsPage extends BaseTest {
 		}
 	}
 
-	@Test(priority=3)
+	@Test(priority = 3)
 	public void RequestMoreInfo() {
 		hdp.ClickRequestMoreInfobtn();
 		reg.doRegistrationWithPhone();
@@ -61,7 +61,7 @@ public class HomeDetailsPage extends BaseTest {
 		}
 	}
 
-	@Test(priority=4)
+	@Test(priority = 4)
 	public void GoSeeThisHome() {
 		hdp.Clickgoseethishomebtn();
 		reg.doRegistrationWithPhone();
