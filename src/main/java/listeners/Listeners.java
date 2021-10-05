@@ -4,8 +4,6 @@ import java.io.IOException;
 import java.util.Calendar;
 import java.util.Date;
 
-import org.apache.log4j.Logger;
-import org.openqa.selenium.WebDriver;
 import org.testng.ITestContext;
 import org.testng.ITestListener;
 import org.testng.ITestResult;
@@ -14,10 +12,8 @@ import com.aventstack.extentreports.ExtentReports;
 import com.aventstack.extentreports.ExtentTest;
 import com.aventstack.extentreports.Status;
 
-import base.BasePage;
 import base.BaseTest;
 import utilities.ExtentReporter;
-import utilities.Screenshots;
 
 public class Listeners extends BaseTest implements ITestListener {
 
