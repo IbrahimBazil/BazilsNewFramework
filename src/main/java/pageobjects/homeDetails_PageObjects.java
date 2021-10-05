@@ -35,32 +35,64 @@ public class homeDetails_PageObjects {
 	WebElement goseethishome_btn;
 
 	public void ClickSaveBtn() {
-		//elu.isElementDisplayed(SaveBtn);
-		//elu.highlightElement(SaveBtn);
-		js.scrollIntoView(SaveBtn);
-		js.clickElementByJS(SaveBtn);
-		//elu.doClick(SaveBtn);
+		// elu.isElementDisplayed(SaveBtn);
+		// elu.highlightElement(SaveBtn);
+
+		try {
+			Thread.sleep(5000);
+			js.scrollIntoView(SaveBtn);
+			js.clickElementByJS(SaveBtn);
+			Thread.sleep(5000);
+		} catch (InterruptedException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+
+		// elu.doClick(SaveBtn);
 	}
-	
+
 	public void ClickRequestShowingbtn() {
-		elu.highlightElement(reqshowing_btn);
-		js.clickElementByJS(reqshowing_btn);
-		//elu.doClick(reqshowing_btn);
+		try {
+			Thread.sleep(5000);
+			js.scrollIntoView(reqshowing_btn);
+			js.clickElementByJS(reqshowing_btn);
+			Thread.sleep(5000);
+		} catch (InterruptedException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+
+		// elu.doClick(reqshowing_btn);
 	}
-	
+
 	public void ClickRequestMoreInfobtn() {
-		//elu.highlightElement(requestMoreinfo_btn);
-		js.scrollIntoView(requestMoreinfo_btn);
-		js.clickElementByJS(requestMoreinfo_btn);
-		//elu.doActionClick(requestMoreinfo_btn);
+		// elu.highlightElement(requestMoreinfo_btn);
+		try {
+			Thread.sleep(5000);
+			js.scrollIntoView(requestMoreinfo_btn);
+			js.clickElementByJS(requestMoreinfo_btn);
+			Thread.sleep(5000);
+		} catch (InterruptedException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+
+		// elu.doActionClick(requestMoreinfo_btn);
 	}
-	
+
 	public void Clickgoseethishomebtn() {
-		//elu.highlightElement(goseethishome_btn);
-		js.scrollIntoView(goseethishome_btn);
-		js.clickElementByJS(goseethishome_btn);
-		//elu.doActionClick(goseethishome_btn);
+		// elu.highlightElement(goseethishome_btn);
+
+		try {
+			Thread.sleep(5000);
+			js.scrollIntoView(goseethishome_btn);
+			js.clickElementByJS(goseethishome_btn);
+			Thread.sleep(5000);
+		} catch (InterruptedException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+		// elu.doActionClick(goseethishome_btn);
 	}
-	
-	
+
 }

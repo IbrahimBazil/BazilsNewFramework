@@ -9,10 +9,17 @@
   </listeners>
   <test thread-count="5" name="Test(failed)">
     <classes>
+      <class name="recaptcha_test.ListView">
+        <methods>
+          <include name="tearDown"/>
+          <include name="launchsite"/>
+          <include name="saveSearchListView"/>
+          <include name="launchsite"/>
+        </methods>
+      </class> <!-- recaptcha_test.ListView -->
       <class name="recaptcha_test.HomeDetailsPage">
         <methods>
           <include name="tearDown"/>
-          <include name="RequestShowing"/>
           <include name="SaveHomeInDetailsPage"/>
           <include name="RequestMoreInfo"/>
           <include name="GoSeeThisHome"/>
