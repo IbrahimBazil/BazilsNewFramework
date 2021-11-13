@@ -3,23 +3,33 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
   <parameter name="browser" value="chrome"/>
   <parameter name="version" value="80"/>
-  <parameter name="brand" value="CB"/>
+  <parameter name="brand" value="bhgre"/>
   <listeners>
     <listener class-name="listeners.Listeners"/>
   </listeners>
   <test thread-count="5" name="Test(failed)">
     <classes>
+      <class name="recaptcha_test.AgentWebSite">
+        <methods>
+          <include name="tearDown"/>
+          <include name="launchAgentWebsite"/>
+          <include name="contactAgent"/>
+          <include name="launchsite"/>
+        </methods>
+      </class> <!-- recaptcha_test.AgentWebSite -->
       <class name="recaptcha_test.ListView">
         <methods>
           <include name="tearDown"/>
           <include name="launchsite"/>
-          <include name="saveSearchListView"/>
+          <include name="HeartIconinListView"/>
           <include name="launchsite"/>
         </methods>
       </class> <!-- recaptcha_test.ListView -->
       <class name="recaptcha_test.HomeDetailsPage">
         <methods>
           <include name="tearDown"/>
+          <include name="TourThisHomeInHD"/>
+          <include name="RequestShowing"/>
           <include name="SaveHomeInDetailsPage"/>
           <include name="RequestMoreInfo"/>
           <include name="GoSeeThisHome"/>

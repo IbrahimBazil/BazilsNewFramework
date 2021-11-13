@@ -8859,3 +8859,882 @@
 2021-10-05 12:46:32,115 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("commons/commons-inject-js_en.ftl"): Not found
 2021-10-05 12:46:32,116 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("commons/commons-inject-js.ftl"): Found
 2021-10-05 12:46:32,116 DEBUG [main] cache:45 - Loading template for "commons/commons-inject-js.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/M1058748/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/commons/commons-inject-js.ftl"
+2021-10-18 07:05:51,428  INFO [main] BasePage:50 - chrome
+2021-10-18 07:05:51,431  INFO [main] BasePage:51 - 80
+2021-10-18 07:06:19,773  INFO [main] BasePage:151 - Opened the List Viewhttps://qawww3.ziprealty.com/for-sale-homes/Dallas-TX-2419c
+2021-10-18 07:06:24,784  INFO [main] BasePage:45 - saveSearchListView_Testing has been started
+2021-10-18 07:06:34,838  INFO [main] BasePage:48 - Clicking the Elements using JavaScriptExecutor
+2021-10-18 07:06:54,875  INFO [main] BasePage:103 - Frame Switched
+2021-10-18 07:06:59,934  INFO [main] BasePage:50 - Cleared the Text Field for : 
+2021-10-18 07:07:00,004  INFO [main] BasePage:53 - Entering the Value: qa_1634520961025
+2021-10-18 07:07:00,065  INFO [main] BasePage:50 - Cleared the Text Field for : 
+2021-10-18 07:07:00,131  INFO [main] BasePage:53 - Entering the Value: qa_1634520961025
+2021-10-18 07:07:00,188  INFO [main] BasePage:50 - Cleared the Text Field for : 
+2021-10-18 07:07:00,251  INFO [main] BasePage:53 - Entering the Value: qa_1634520961025@gmail.com
+2021-10-18 07:07:00,298  INFO [main] BasePage:50 - Cleared the Text Field for : 
+2021-10-18 07:07:00,350  INFO [main] BasePage:53 - Entering the Value: password
+2021-10-18 07:07:18,728  INFO [main] BasePage:88 - saveSearchListView_Test hasbeen Completed_Failed
+2021-10-18 07:07:25,004  INFO [main] BasePage:151 - Opened the List Viewhttps://qawww3.ziprealty.com/for-sale-homes/Dallas-TX-2419c
+2021-10-18 07:07:30,008  INFO [main] BasePage:45 - HeartIconinListView_Testing has been started
+2021-10-18 07:07:50,090  INFO [main] BasePage:48 - Clicking the Elements using JavaScriptExecutor
+2021-10-18 07:08:08,343  INFO [main] BasePage:88 - HeartIconinListView_Test hasbeen Completed_Failed
+2021-10-18 07:08:09,176  INFO [main] BasePage:50 - chrome
+2021-10-18 07:08:09,176  INFO [main] BasePage:51 - 80
+2021-10-18 07:08:44,136  INFO [main] BasePage:155 - Open the Home Details Pagehttps://qawww3.ziprealty.com/property/3510-Turtle-Creek-Blvd-Apt-7C-_UNIT_7C-Dallas-TX-75219/103628955/detail?src=list
+2021-10-18 07:08:49,137  INFO [main] BasePage:45 - RequestShowing_Testing has been started
+2021-10-18 07:08:54,172  INFO [main] BasePage:54 - Scrolling into view of the Eleent using JavaScriptExecutor
+2021-10-18 07:08:54,253  INFO [main] BasePage:48 - Clicking the Elements using JavaScriptExecutor
+2021-10-18 07:09:14,293  INFO [main] BasePage:103 - Frame Switched
+2021-10-18 07:09:19,351  INFO [main] BasePage:50 - Cleared the Text Field for : 
+2021-10-18 07:09:19,441  INFO [main] BasePage:53 - Entering the Value: qa_1634521092782
+2021-10-18 07:09:19,501  INFO [main] BasePage:50 - Cleared the Text Field for : 
+2021-10-18 07:09:19,564  INFO [main] BasePage:53 - Entering the Value: qa_1634521092782
+2021-10-18 07:09:19,636  INFO [main] BasePage:50 - Cleared the Text Field for : 
+2021-10-18 07:09:19,714  INFO [main] BasePage:53 - Entering the Value: qa_1634521092782@gmail.com
+2021-10-18 07:09:19,779  INFO [main] BasePage:50 - Cleared the Text Field for : 
+2021-10-18 07:09:19,838  INFO [main] BasePage:53 - Entering the Value: password
+2021-10-18 07:09:19,918  INFO [main] BasePage:50 - Cleared the Text Field for : 
+2021-10-18 07:09:19,982  INFO [main] BasePage:53 - Entering the Value: 9941765628
+2021-10-18 07:09:25,124  INFO [main] BasePage:47 - Captcha is Displayed in Request Showing
+2021-10-18 07:09:25,516  INFO [main] BasePage:66 - RequestShowing_Testing has been completed
+2021-10-18 07:09:40,039  INFO [main] BasePage:155 - Open the Home Details Pagehttps://qawww3.ziprealty.com/property/3510-Turtle-Creek-Blvd-Apt-7C-_UNIT_7C-Dallas-TX-75219/103628955/detail?src=list
+2021-10-18 07:09:45,040  INFO [main] BasePage:45 - SaveHomeInDetailsPage_Testing has been started
+2021-10-18 07:09:50,082  INFO [main] BasePage:54 - Scrolling into view of the Eleent using JavaScriptExecutor
+2021-10-18 07:09:50,157  INFO [main] BasePage:48 - Clicking the Elements using JavaScriptExecutor
+2021-10-18 07:10:10,197  INFO [main] BasePage:103 - Frame Switched
+2021-10-18 07:10:15,251  INFO [main] BasePage:50 - Cleared the Text Field for : 
+2021-10-18 07:10:15,319  INFO [main] BasePage:53 - Entering the Value: qa_1634521092782
+2021-10-18 07:10:15,382  INFO [main] BasePage:50 - Cleared the Text Field for : 
+2021-10-18 07:10:15,446  INFO [main] BasePage:53 - Entering the Value: qa_1634521092782
+2021-10-18 07:10:15,508  INFO [main] BasePage:50 - Cleared the Text Field for : 
+2021-10-18 07:10:15,588  INFO [main] BasePage:53 - Entering the Value: qa_1634521092782@gmail.com
+2021-10-18 07:10:15,653  INFO [main] BasePage:50 - Cleared the Text Field for : 
+2021-10-18 07:10:15,711  INFO [main] BasePage:53 - Entering the Value: password
+2021-10-18 07:10:23,435 DEBUG [main] cache:45 - Couldn't find template in cache for "spark/spark.spa.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-10-18 07:10:23,436 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/spark.spa_en_US.ftl"): Not found
+2021-10-18 07:10:23,437 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/spark.spa_en.ftl"): Not found
+2021-10-18 07:10:23,438 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/spark.spa.ftl"): Found
+2021-10-18 07:10:23,438 DEBUG [main] cache:45 - Loading template for "spark/spark.spa.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/M1058748/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/spark.spa.ftl"
+2021-10-18 07:10:23,534 DEBUG [main] cache:45 - Couldn't find template in cache for "commons/commons-variables.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-10-18 07:10:23,534 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("commons/commons-variables_en_US.ftl"): Not found
+2021-10-18 07:10:23,534 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("commons/commons-variables_en.ftl"): Not found
+2021-10-18 07:10:23,535 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("commons/commons-variables.ftl"): Found
+2021-10-18 07:10:23,535 DEBUG [main] cache:45 - Loading template for "commons/commons-variables.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/M1058748/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/commons/commons-variables.ftl"
+2021-10-18 07:10:23,632 DEBUG [main] cache:45 - Couldn't find template in cache for "commons/commons-macros.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-10-18 07:10:23,633 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("commons/commons-macros_en_US.ftl"): Not found
+2021-10-18 07:10:23,633 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("commons/commons-macros_en.ftl"): Not found
+2021-10-18 07:10:23,633 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("commons/commons-macros.ftl"): Found
+2021-10-18 07:10:23,634 DEBUG [main] cache:45 - Loading template for "commons/commons-macros.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/M1058748/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/commons/commons-macros.ftl"
+2021-10-18 07:10:23,643 DEBUG [main] cache:45 - Couldn't find template in cache for "spark/macros/attributes.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-10-18 07:10:23,644 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/macros/attributes_en_US.ftl"): Not found
+2021-10-18 07:10:23,645 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/macros/attributes_en.ftl"): Not found
+2021-10-18 07:10:23,645 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/macros/attributes.ftl"): Found
+2021-10-18 07:10:23,646 DEBUG [main] cache:45 - Loading template for "spark/macros/attributes.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/M1058748/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/macros/attributes.ftl"
+2021-10-18 07:10:23,647 DEBUG [main] cache:45 - Couldn't find template in cache for "spark/macros/log.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-10-18 07:10:23,648 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/macros/log_en_US.ftl"): Not found
+2021-10-18 07:10:23,648 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/macros/log_en.ftl"): Not found
+2021-10-18 07:10:23,648 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/macros/log.ftl"): Found
+2021-10-18 07:10:23,648 DEBUG [main] cache:45 - Loading template for "spark/macros/log.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/M1058748/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/macros/log.ftl"
+2021-10-18 07:10:23,650 DEBUG [main] cache:45 - Couldn't find template in cache for "spark/macros/recurse_nodes.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-10-18 07:10:23,651 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/macros/recurse_nodes_en_US.ftl"): Not found
+2021-10-18 07:10:23,651 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/macros/recurse_nodes_en.ftl"): Not found
+2021-10-18 07:10:23,651 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/macros/recurse_nodes.ftl"): Found
+2021-10-18 07:10:23,652 DEBUG [main] cache:45 - Loading template for "spark/macros/recurse_nodes.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/M1058748/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/macros/recurse_nodes.ftl"
+2021-10-18 07:10:23,654 DEBUG [main] cache:45 - "spark/macros/log.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-10-18 07:10:23,654 DEBUG [main] cache:45 - Couldn't find template in cache for "spark/macros/attr-common.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-10-18 07:10:23,655 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/macros/attr-common_en_US.ftl"): Not found
+2021-10-18 07:10:23,655 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/macros/attr-common_en.ftl"): Not found
+2021-10-18 07:10:23,655 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/macros/attr-common.ftl"): Found
+2021-10-18 07:10:23,656 DEBUG [main] cache:45 - Loading template for "spark/macros/attr-common.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/M1058748/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/macros/attr-common.ftl"
+2021-10-18 07:10:23,661 DEBUG [main] cache:45 - Couldn't find template in cache for "spark/partials/head.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-10-18 07:10:23,662 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/head_en_US.ftl"): Not found
+2021-10-18 07:10:23,662 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/head_en.ftl"): Not found
+2021-10-18 07:10:23,663 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/head.ftl"): Found
+2021-10-18 07:10:23,663 DEBUG [main] cache:45 - Loading template for "spark/partials/head.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/M1058748/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/partials/head.ftl"
+2021-10-18 07:10:23,667 DEBUG [main] cache:45 - Couldn't find template in cache for "commons/commons-inject-css.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-10-18 07:10:23,667 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("commons/commons-inject-css_en_US.ftl"): Not found
+2021-10-18 07:10:23,667 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("commons/commons-inject-css_en.ftl"): Not found
+2021-10-18 07:10:23,668 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("commons/commons-inject-css.ftl"): Found
+2021-10-18 07:10:23,668 DEBUG [main] cache:45 - Loading template for "commons/commons-inject-css.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/M1058748/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/commons/commons-inject-css.ftl"
+2021-10-18 07:10:23,669 DEBUG [main] cache:45 - Couldn't find template in cache for "spark/partials/navbar.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-10-18 07:10:23,669 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/navbar_en_US.ftl"): Not found
+2021-10-18 07:10:23,669 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/navbar_en.ftl"): Not found
+2021-10-18 07:10:23,670 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/navbar.ftl"): Found
+2021-10-18 07:10:23,670 DEBUG [main] cache:45 - Loading template for "spark/partials/navbar.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/M1058748/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/partials/navbar.ftl"
+2021-10-18 07:10:23,677 DEBUG [main] cache:45 - Couldn't find template in cache for "spark/partials/sidenav.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-10-18 07:10:23,677 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/sidenav_en_US.ftl"): Not found
+2021-10-18 07:10:23,678 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/sidenav_en.ftl"): Not found
+2021-10-18 07:10:23,680 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/sidenav.ftl"): Found
+2021-10-18 07:10:23,680 DEBUG [main] cache:45 - Loading template for "spark/partials/sidenav.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/M1058748/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/partials/sidenav.ftl"
+2021-10-18 07:10:23,690 DEBUG [main] cache:45 - Couldn't find template in cache for "spark/partials/test.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-10-18 07:10:23,691 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/test_en_US.ftl"): Not found
+2021-10-18 07:10:23,691 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/test_en.ftl"): Not found
+2021-10-18 07:10:23,691 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/test.ftl"): Found
+2021-10-18 07:10:23,692 DEBUG [main] cache:45 - Loading template for "spark/partials/test.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/M1058748/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/partials/test.ftl"
+2021-10-18 07:10:23,703 DEBUG [main] cache:45 - Couldn't find template in cache for "spark/partials/standard-content.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-10-18 07:10:23,703 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/standard-content_en_US.ftl"): Not found
+2021-10-18 07:10:23,704 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/standard-content_en.ftl"): Not found
+2021-10-18 07:10:23,704 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/standard-content.ftl"): Found
+2021-10-18 07:10:23,705 DEBUG [main] cache:45 - Loading template for "spark/partials/standard-content.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/M1058748/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/partials/standard-content.ftl"
+2021-10-18 07:10:23,715 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-10-18 07:10:23,717 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-10-18 07:10:23,718 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-10-18 07:10:23,719 DEBUG [main] cache:45 - Couldn't find template in cache for "spark/partials/exception.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-10-18 07:10:23,720 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/exception_en_US.ftl"): Not found
+2021-10-18 07:10:23,720 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/exception_en.ftl"): Not found
+2021-10-18 07:10:23,721 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/exception.ftl"): Found
+2021-10-18 07:10:23,721 DEBUG [main] cache:45 - Loading template for "spark/partials/exception.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/M1058748/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/partials/exception.ftl"
+2021-10-18 07:10:23,726 DEBUG [main] cache:45 - Couldn't find template in cache for "spark/partials/category.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-10-18 07:10:23,726 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/category_en_US.ftl"): Not found
+2021-10-18 07:10:23,727 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/category_en.ftl"): Not found
+2021-10-18 07:10:23,728 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/category.ftl"): Found
+2021-10-18 07:10:23,728 DEBUG [main] cache:45 - Loading template for "spark/partials/category.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/M1058748/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/partials/category.ftl"
+2021-10-18 07:10:23,730 DEBUG [main] cache:45 - Couldn't find template in cache for "spark/partials/device.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-10-18 07:10:23,730 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/device_en_US.ftl"): Not found
+2021-10-18 07:10:23,731 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/device_en.ftl"): Not found
+2021-10-18 07:10:23,731 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/device.ftl"): Found
+2021-10-18 07:10:23,731 DEBUG [main] cache:45 - Loading template for "spark/partials/device.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/M1058748/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/partials/device.ftl"
+2021-10-18 07:10:23,732 DEBUG [main] cache:45 - Couldn't find template in cache for "spark/partials/author.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-10-18 07:10:23,733 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/author_en_US.ftl"): Not found
+2021-10-18 07:10:23,733 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/author_en.ftl"): Not found
+2021-10-18 07:10:23,734 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/author.ftl"): Found
+2021-10-18 07:10:23,734 DEBUG [main] cache:45 - Loading template for "spark/partials/author.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/M1058748/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/partials/author.ftl"
+2021-10-18 07:10:23,735 DEBUG [main] cache:45 - Couldn't find template in cache for "spark/partials/log.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-10-18 07:10:23,736 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/log_en_US.ftl"): Not found
+2021-10-18 07:10:23,736 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/log_en.ftl"): Not found
+2021-10-18 07:10:23,737 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/log.ftl"): Found
+2021-10-18 07:10:23,737 DEBUG [main] cache:45 - Loading template for "spark/partials/log.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/M1058748/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/partials/log.ftl"
+2021-10-18 07:10:23,738 DEBUG [main] cache:45 - Couldn't find template in cache for "spark/partials/dashboard.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-10-18 07:10:23,739 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/dashboard_en_US.ftl"): Not found
+2021-10-18 07:10:23,739 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/dashboard_en.ftl"): Not found
+2021-10-18 07:10:23,740 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/dashboard.ftl"): Found
+2021-10-18 07:10:23,740 DEBUG [main] cache:45 - Loading template for "spark/partials/dashboard.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/M1058748/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/partials/dashboard.ftl"
+2021-10-18 07:10:23,779 DEBUG [main] cache:45 - Couldn't find template in cache for "spark/partials/scripts.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-10-18 07:10:23,780 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/scripts_en_US.ftl"): Not found
+2021-10-18 07:10:23,780 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/scripts_en.ftl"): Not found
+2021-10-18 07:10:23,781 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/scripts.ftl"): Found
+2021-10-18 07:10:23,782 DEBUG [main] cache:45 - Loading template for "spark/partials/scripts.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/M1058748/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/partials/scripts.ftl"
+2021-10-18 07:10:23,784 DEBUG [main] cache:45 - Couldn't find template in cache for "commons/commons-inject-js.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-10-18 07:10:23,784 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("commons/commons-inject-js_en_US.ftl"): Not found
+2021-10-18 07:10:23,785 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("commons/commons-inject-js_en.ftl"): Not found
+2021-10-18 07:10:23,786 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("commons/commons-inject-js.ftl"): Found
+2021-10-18 07:10:23,787 DEBUG [main] cache:45 - Loading template for "commons/commons-inject-js.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/M1058748/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/commons/commons-inject-js.ftl"
+2021-10-18 07:10:33,845  INFO [main] BasePage:50 - chrome
+2021-10-18 07:10:33,846  INFO [main] BasePage:51 - 80
+2021-10-18 07:10:38,971  INFO [main] BasePage:151 - Opened the List Viewhttps://qawww6.ziprealty.com/for-sale-homes/Dallas-TX-2419c
+2021-10-18 07:10:43,982  INFO [main] BasePage:45 - saveSearchListView_Testing has been started
+2021-10-18 07:11:00,045  INFO [main] BasePage:48 - Clicking the Elements using JavaScriptExecutor
+2021-10-18 07:11:20,090  INFO [main] BasePage:103 - Frame Switched
+2021-10-18 07:11:25,147  INFO [main] BasePage:50 - Cleared the Text Field for : 
+2021-10-18 07:11:25,214  INFO [main] BasePage:53 - Entering the Value: qa_1634521236074
+2021-10-18 07:11:25,274  INFO [main] BasePage:50 - Cleared the Text Field for : 
+2021-10-18 07:11:25,331  INFO [main] BasePage:53 - Entering the Value: qa_1634521236074
+2021-10-18 07:11:25,385  INFO [main] BasePage:50 - Cleared the Text Field for : 
+2021-10-18 07:11:25,446  INFO [main] BasePage:53 - Entering the Value: qa_1634521236074@gmail.com
+2021-10-18 07:11:25,498  INFO [main] BasePage:50 - Cleared the Text Field for : 
+2021-10-18 07:11:25,542  INFO [main] BasePage:53 - Entering the Value: password
+2021-10-18 07:11:30,623  INFO [main] BasePage:36 - Captcha is Displayed
+2021-10-18 07:11:30,994  INFO [main] BasePage:66 - saveSearchListView_Testing has been completed
+2021-10-18 07:11:38,456  INFO [main] BasePage:151 - Opened the List Viewhttps://qawww6.ziprealty.com/for-sale-homes/Dallas-TX-2419c
+2021-10-18 07:11:43,459  INFO [main] BasePage:45 - HeartIconinListView_Testing has been started
+2021-10-18 07:12:03,537  INFO [main] BasePage:48 - Clicking the Elements using JavaScriptExecutor
+2021-10-18 07:12:23,575  INFO [main] BasePage:103 - Frame Switched
+2021-10-18 07:12:28,629  INFO [main] BasePage:50 - Cleared the Text Field for : 
+2021-10-18 07:12:28,686  INFO [main] BasePage:53 - Entering the Value: qa_1634521236074
+2021-10-18 07:12:28,738  INFO [main] BasePage:50 - Cleared the Text Field for : 
+2021-10-18 07:12:28,788  INFO [main] BasePage:53 - Entering the Value: qa_1634521236074
+2021-10-18 07:12:28,839  INFO [main] BasePage:50 - Cleared the Text Field for : 
+2021-10-18 07:12:28,910  INFO [main] BasePage:53 - Entering the Value: qa_1634521236074@gmail.com
+2021-10-18 07:12:28,962  INFO [main] BasePage:50 - Cleared the Text Field for : 
+2021-10-18 07:12:29,006  INFO [main] BasePage:53 - Entering the Value: password
+2021-10-18 07:12:34,103  INFO [main] BasePage:52 - Captcha is Displayed
+2021-10-18 07:12:34,433  INFO [main] BasePage:66 - HeartIconinListView_Testing has been completed
+2021-10-18 07:12:35,244  INFO [main] BasePage:50 - chrome
+2021-10-18 07:12:35,245  INFO [main] BasePage:51 - 80
+2021-10-18 07:12:38,705  INFO [main] BasePage:155 - Open the Home Details Pagehttps://qawww6.ziprealty.com/property/3510-Turtle-Creek-Blvd-Apt-7C-_UNIT_7C-Dallas-TX-75219/103628955/detail?src=list
+2021-10-18 07:12:43,707  INFO [main] BasePage:45 - RequestShowing_Testing has been started
+2021-10-18 07:12:50,740  INFO [main] BasePage:54 - Scrolling into view of the Eleent using JavaScriptExecutor
+2021-10-18 07:12:50,777  INFO [main] BasePage:48 - Clicking the Elements using JavaScriptExecutor
+2021-10-18 07:13:10,818  INFO [main] BasePage:103 - Frame Switched
+2021-10-18 07:13:15,873  INFO [main] BasePage:50 - Cleared the Text Field for : 
+2021-10-18 07:13:15,937  INFO [main] BasePage:53 - Entering the Value: qa_1634521356627
+2021-10-18 07:13:16,000  INFO [main] BasePage:50 - Cleared the Text Field for : 
+2021-10-18 07:13:16,063  INFO [main] BasePage:53 - Entering the Value: qa_1634521356627
+2021-10-18 07:13:16,115  INFO [main] BasePage:50 - Cleared the Text Field for : 
+2021-10-18 07:13:16,182  INFO [main] BasePage:53 - Entering the Value: qa_1634521356627@gmail.com
+2021-10-18 07:13:16,231  INFO [main] BasePage:50 - Cleared the Text Field for : 
+2021-10-18 07:13:16,276  INFO [main] BasePage:53 - Entering the Value: password
+2021-10-18 07:13:16,329  INFO [main] BasePage:50 - Cleared the Text Field for : 
+2021-10-18 07:13:16,368  INFO [main] BasePage:53 - Entering the Value: 9941765628
+2021-10-18 07:13:21,465  INFO [main] BasePage:47 - Captcha is Displayed in Request Showing
+2021-10-18 07:13:21,756  INFO [main] BasePage:66 - RequestShowing_Testing has been completed
+2021-10-18 07:13:28,573  INFO [main] BasePage:155 - Open the Home Details Pagehttps://qawww6.ziprealty.com/property/3510-Turtle-Creek-Blvd-Apt-7C-_UNIT_7C-Dallas-TX-75219/103628955/detail?src=list
+2021-10-18 07:13:33,576  INFO [main] BasePage:45 - SaveHomeInDetailsPage_Testing has been started
+2021-10-18 07:13:38,641  INFO [main] BasePage:54 - Scrolling into view of the Eleent using JavaScriptExecutor
+2021-10-18 07:13:38,678  INFO [main] BasePage:48 - Clicking the Elements using JavaScriptExecutor
+2021-10-18 07:13:58,755  INFO [main] BasePage:103 - Frame Switched
+2021-10-18 07:14:03,822  INFO [main] BasePage:50 - Cleared the Text Field for : 
+2021-10-18 07:14:03,880  INFO [main] BasePage:53 - Entering the Value: qa_1634521356627
+2021-10-18 07:14:03,932  INFO [main] BasePage:50 - Cleared the Text Field for : 
+2021-10-18 07:14:03,983  INFO [main] BasePage:53 - Entering the Value: qa_1634521356627
+2021-10-18 07:14:04,034  INFO [main] BasePage:50 - Cleared the Text Field for : 
+2021-10-18 07:14:04,090  INFO [main] BasePage:53 - Entering the Value: qa_1634521356627@gmail.com
+2021-10-18 07:14:04,141  INFO [main] BasePage:50 - Cleared the Text Field for : 
+2021-10-18 07:14:04,181  INFO [main] BasePage:53 - Entering the Value: password
+2021-10-18 07:14:17,608  INFO [main] BasePage:88 - SaveHomeInDetailsPage_Test hasbeen Completed_Failed
+2021-10-18 07:14:22,883  INFO [main] BasePage:155 - Open the Home Details Pagehttps://qawww6.ziprealty.com/property/3510-Turtle-Creek-Blvd-Apt-7C-_UNIT_7C-Dallas-TX-75219/103628955/detail?src=list
+2021-10-18 07:14:27,886  INFO [main] BasePage:45 - RequestMoreInfo_Testing has been started
+2021-10-18 07:14:32,908  INFO [main] BasePage:54 - Scrolling into view of the Eleent using JavaScriptExecutor
+2021-10-18 07:14:33,448  INFO [main] BasePage:48 - Clicking the Elements using JavaScriptExecutor
+2021-10-18 07:14:51,715  INFO [main] BasePage:88 - RequestMoreInfo_Test hasbeen Completed_Failed
+2021-10-18 07:14:56,809  INFO [main] BasePage:155 - Open the Home Details Pagehttps://qawww6.ziprealty.com/property/3510-Turtle-Creek-Blvd-Apt-7C-_UNIT_7C-Dallas-TX-75219/103628955/detail?src=list
+2021-10-18 07:15:01,811  INFO [main] BasePage:45 - GoSeeThisHome_Testing has been started
+2021-10-18 07:15:06,907  INFO [main] BasePage:54 - Scrolling into view of the Eleent using JavaScriptExecutor
+2021-10-18 07:15:06,943  INFO [main] BasePage:48 - Clicking the Elements using JavaScriptExecutor
+2021-10-18 07:15:27,015  INFO [main] BasePage:103 - Frame Switched
+2021-10-18 07:15:35,254  INFO [main] BasePage:88 - GoSeeThisHome_Test hasbeen Completed_Failed
+2021-10-18 07:15:40,543  INFO [main] BasePage:155 - Open the Home Details Pagehttps://qawww6.ziprealty.com/property/3510-Turtle-Creek-Blvd-Apt-7C-_UNIT_7C-Dallas-TX-75219/103628955/detail?src=list
+2021-10-18 07:15:45,547  INFO [main] BasePage:45 - TourThisHomeInHD_Testing has been started
+2021-10-18 07:16:00,619  INFO [main] BasePage:103 - Frame Switched
+2021-10-18 07:16:08,878  INFO [main] BasePage:88 - TourThisHomeInHD_Test hasbeen Completed_Failed
+2021-10-18 07:16:09,677  INFO [main] BasePage:50 - chrome
+2021-10-18 07:16:09,677  INFO [main] BasePage:51 - 80
+2021-10-18 07:16:32,110  INFO [main] BasePage:163 - Agent Website opned https://qawww6.ziprealty.com/Coldwell-Banker-Best-Realty-7501c/William-Lee-325497a
+2021-10-18 07:16:35,114  INFO [main] BasePage:45 - contactAgent_Testing has been started
+2021-10-18 07:16:35,153  INFO [main] BasePage:48 - Clicking the Elements using JavaScriptExecutor
+2021-10-18 07:16:50,185  INFO [main] BasePage:103 - Frame Switched
+2021-10-18 07:16:55,234  INFO [main] BasePage:50 - Cleared the Text Field for : 
+2021-10-18 07:16:55,296  INFO [main] BasePage:53 - Entering the Value: qa_1634521570945
+2021-10-18 07:16:55,354  INFO [main] BasePage:50 - Cleared the Text Field for : 
+2021-10-18 07:16:55,405  INFO [main] BasePage:53 - Entering the Value: qa_1634521570945
+2021-10-18 07:16:55,454  INFO [main] BasePage:50 - Cleared the Text Field for : 
+2021-10-18 07:16:55,516  INFO [main] BasePage:53 - Entering the Value: qa_1634521570945@gmail.com
+2021-10-18 07:16:55,567  INFO [main] BasePage:50 - Cleared the Text Field for : 
+2021-10-18 07:16:55,609  INFO [main] BasePage:53 - Entering the Value: password
+2021-10-18 07:17:00,719  INFO [main] BasePage:36 - Captcha is Displayed
+2021-10-18 07:17:00,719  INFO [main] BasePage:40 - Tesing Completed
+2021-10-18 07:17:01,292  INFO [main] BasePage:66 - contactAgent_Testing has been completed
+2021-10-18 07:17:02,048  INFO [main] BasePage:50 - chrome
+2021-10-18 07:17:02,048  INFO [main] BasePage:51 - 80
+2021-10-18 07:17:15,516  INFO [main] BasePage:159 - Open the SignUp urlhttps://qawww6.ziprealty.com/registration/register_all.jsp?metro=dallas
+2021-10-18 07:17:20,516  INFO [main] BasePage:45 - DirectSignupContact_Testing has been started
+2021-10-18 07:17:20,568  INFO [main] BasePage:50 - Cleared the Text Field for : 
+2021-10-18 07:17:20,609  INFO [main] BasePage:53 - Entering the Value: qa_1634521623330
+2021-10-18 07:17:20,663  INFO [main] BasePage:50 - Cleared the Text Field for : 
+2021-10-18 07:17:20,716  INFO [main] BasePage:53 - Entering the Value: qa_1634521623330
+2021-10-18 07:17:20,771  INFO [main] BasePage:50 - Cleared the Text Field for : 
+2021-10-18 07:17:20,836  INFO [main] BasePage:53 - Entering the Value: qa_1634521623330@gmail.com
+2021-10-18 07:17:20,888  INFO [main] BasePage:50 - Cleared the Text Field for : 
+2021-10-18 07:17:20,960  INFO [main] BasePage:53 - Entering the Value: qa_1634521623330@gmail.com
+2021-10-18 07:17:21,015  INFO [main] BasePage:50 - Cleared the Text Field for : 
+2021-10-18 07:17:21,061  INFO [main] BasePage:53 - Entering the Value: password
+2021-10-18 07:17:21,116  INFO [main] BasePage:50 - Cleared the Text Field for : 
+2021-10-18 07:17:21,179  INFO [main] BasePage:53 - Entering the Value: password
+2021-10-18 07:17:21,252  INFO [main] BasePage:50 - Cleared the Text Field for : 
+2021-10-18 07:17:21,311  INFO [main] BasePage:53 - Entering the Value: 9941765628
+2021-10-18 07:17:28,834  INFO [main] BasePage:48 - Clicking the Elements using JavaScriptExecutor
+2021-10-18 07:17:28,834  INFO [main] BasePage:34 - Testing the Direct Signup
+2021-10-18 07:17:28,987  INFO [main] BasePage:66 - DirectSignupContact_Testing has been completed
+2021-10-18 07:17:29,758 DEBUG [main] cache:45 - Couldn't find template in cache for "spark/spark.spa.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-10-18 07:17:29,759 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/spark.spa_en_US.ftl"): Not found
+2021-10-18 07:17:29,760 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/spark.spa_en.ftl"): Not found
+2021-10-18 07:17:29,761 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/spark.spa.ftl"): Found
+2021-10-18 07:17:29,761 DEBUG [main] cache:45 - Loading template for "spark/spark.spa.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/M1058748/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/spark.spa.ftl"
+2021-10-18 07:17:29,807 DEBUG [main] cache:45 - Couldn't find template in cache for "commons/commons-variables.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-10-18 07:17:29,807 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("commons/commons-variables_en_US.ftl"): Not found
+2021-10-18 07:17:29,808 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("commons/commons-variables_en.ftl"): Not found
+2021-10-18 07:17:29,808 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("commons/commons-variables.ftl"): Found
+2021-10-18 07:17:29,808 DEBUG [main] cache:45 - Loading template for "commons/commons-variables.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/M1058748/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/commons/commons-variables.ftl"
+2021-10-18 07:17:29,872 DEBUG [main] cache:45 - Couldn't find template in cache for "commons/commons-macros.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-10-18 07:17:29,872 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("commons/commons-macros_en_US.ftl"): Not found
+2021-10-18 07:17:29,872 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("commons/commons-macros_en.ftl"): Not found
+2021-10-18 07:17:29,873 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("commons/commons-macros.ftl"): Found
+2021-10-18 07:17:29,873 DEBUG [main] cache:45 - Loading template for "commons/commons-macros.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/M1058748/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/commons/commons-macros.ftl"
+2021-10-18 07:17:29,881 DEBUG [main] cache:45 - Couldn't find template in cache for "spark/macros/attributes.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-10-18 07:17:29,881 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/macros/attributes_en_US.ftl"): Not found
+2021-10-18 07:17:29,881 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/macros/attributes_en.ftl"): Not found
+2021-10-18 07:17:29,882 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/macros/attributes.ftl"): Found
+2021-10-18 07:17:29,882 DEBUG [main] cache:45 - Loading template for "spark/macros/attributes.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/M1058748/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/macros/attributes.ftl"
+2021-10-18 07:17:29,884 DEBUG [main] cache:45 - Couldn't find template in cache for "spark/macros/log.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-10-18 07:17:29,885 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/macros/log_en_US.ftl"): Not found
+2021-10-18 07:17:29,885 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/macros/log_en.ftl"): Not found
+2021-10-18 07:17:29,885 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/macros/log.ftl"): Found
+2021-10-18 07:17:29,885 DEBUG [main] cache:45 - Loading template for "spark/macros/log.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/M1058748/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/macros/log.ftl"
+2021-10-18 07:17:29,887 DEBUG [main] cache:45 - Couldn't find template in cache for "spark/macros/recurse_nodes.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-10-18 07:17:29,888 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/macros/recurse_nodes_en_US.ftl"): Not found
+2021-10-18 07:17:29,888 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/macros/recurse_nodes_en.ftl"): Not found
+2021-10-18 07:17:29,888 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/macros/recurse_nodes.ftl"): Found
+2021-10-18 07:17:29,888 DEBUG [main] cache:45 - Loading template for "spark/macros/recurse_nodes.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/M1058748/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/macros/recurse_nodes.ftl"
+2021-10-18 07:17:29,891 DEBUG [main] cache:45 - "spark/macros/log.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-10-18 07:17:29,892 DEBUG [main] cache:45 - Couldn't find template in cache for "spark/macros/attr-common.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-10-18 07:17:29,892 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/macros/attr-common_en_US.ftl"): Not found
+2021-10-18 07:17:29,892 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/macros/attr-common_en.ftl"): Not found
+2021-10-18 07:17:29,893 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/macros/attr-common.ftl"): Found
+2021-10-18 07:17:29,893 DEBUG [main] cache:45 - Loading template for "spark/macros/attr-common.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/M1058748/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/macros/attr-common.ftl"
+2021-10-18 07:17:29,900 DEBUG [main] cache:45 - Couldn't find template in cache for "spark/partials/head.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-10-18 07:17:29,901 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/head_en_US.ftl"): Not found
+2021-10-18 07:17:29,901 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/head_en.ftl"): Not found
+2021-10-18 07:17:29,902 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/head.ftl"): Found
+2021-10-18 07:17:29,902 DEBUG [main] cache:45 - Loading template for "spark/partials/head.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/M1058748/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/partials/head.ftl"
+2021-10-18 07:17:29,905 DEBUG [main] cache:45 - Couldn't find template in cache for "commons/commons-inject-css.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-10-18 07:17:29,905 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("commons/commons-inject-css_en_US.ftl"): Not found
+2021-10-18 07:17:29,906 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("commons/commons-inject-css_en.ftl"): Not found
+2021-10-18 07:17:29,906 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("commons/commons-inject-css.ftl"): Found
+2021-10-18 07:17:29,906 DEBUG [main] cache:45 - Loading template for "commons/commons-inject-css.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/M1058748/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/commons/commons-inject-css.ftl"
+2021-10-18 07:17:29,907 DEBUG [main] cache:45 - Couldn't find template in cache for "spark/partials/navbar.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-10-18 07:17:29,907 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/navbar_en_US.ftl"): Not found
+2021-10-18 07:17:29,907 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/navbar_en.ftl"): Not found
+2021-10-18 07:17:29,908 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/navbar.ftl"): Found
+2021-10-18 07:17:29,908 DEBUG [main] cache:45 - Loading template for "spark/partials/navbar.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/M1058748/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/partials/navbar.ftl"
+2021-10-18 07:17:29,911 DEBUG [main] cache:45 - Couldn't find template in cache for "spark/partials/sidenav.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-10-18 07:17:29,912 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/sidenav_en_US.ftl"): Not found
+2021-10-18 07:17:29,912 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/sidenav_en.ftl"): Not found
+2021-10-18 07:17:29,912 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/sidenav.ftl"): Found
+2021-10-18 07:17:29,912 DEBUG [main] cache:45 - Loading template for "spark/partials/sidenav.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/M1058748/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/partials/sidenav.ftl"
+2021-10-18 07:17:29,919 DEBUG [main] cache:45 - Couldn't find template in cache for "spark/partials/test.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-10-18 07:17:29,919 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/test_en_US.ftl"): Not found
+2021-10-18 07:17:29,920 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/test_en.ftl"): Not found
+2021-10-18 07:17:29,920 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/test.ftl"): Found
+2021-10-18 07:17:29,920 DEBUG [main] cache:45 - Loading template for "spark/partials/test.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/M1058748/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/partials/test.ftl"
+2021-10-18 07:17:29,929 DEBUG [main] cache:45 - Couldn't find template in cache for "spark/partials/standard-content.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-10-18 07:17:29,929 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/standard-content_en_US.ftl"): Not found
+2021-10-18 07:17:29,930 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/standard-content_en.ftl"): Not found
+2021-10-18 07:17:29,930 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/standard-content.ftl"): Found
+2021-10-18 07:17:29,930 DEBUG [main] cache:45 - Loading template for "spark/partials/standard-content.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/M1058748/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/partials/standard-content.ftl"
+2021-10-18 07:17:29,936 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-10-18 07:17:29,937 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-10-18 07:17:29,938 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-10-18 07:17:29,941 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-10-18 07:17:29,942 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-10-18 07:17:29,943 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-10-18 07:17:29,944 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-10-18 07:17:29,946 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-10-18 07:17:29,946 DEBUG [main] cache:45 - Couldn't find template in cache for "spark/partials/exception.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-10-18 07:17:29,946 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/exception_en_US.ftl"): Not found
+2021-10-18 07:17:29,947 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/exception_en.ftl"): Not found
+2021-10-18 07:17:29,947 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/exception.ftl"): Found
+2021-10-18 07:17:29,947 DEBUG [main] cache:45 - Loading template for "spark/partials/exception.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/M1058748/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/partials/exception.ftl"
+2021-10-18 07:17:29,950 DEBUG [main] cache:45 - Couldn't find template in cache for "spark/partials/category.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-10-18 07:17:29,951 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/category_en_US.ftl"): Not found
+2021-10-18 07:17:29,951 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/category_en.ftl"): Not found
+2021-10-18 07:17:29,952 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/category.ftl"): Found
+2021-10-18 07:17:29,952 DEBUG [main] cache:45 - Loading template for "spark/partials/category.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/M1058748/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/partials/category.ftl"
+2021-10-18 07:17:29,952 DEBUG [main] cache:45 - Couldn't find template in cache for "spark/partials/device.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-10-18 07:17:29,953 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/device_en_US.ftl"): Not found
+2021-10-18 07:17:29,953 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/device_en.ftl"): Not found
+2021-10-18 07:17:29,953 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/device.ftl"): Found
+2021-10-18 07:17:29,953 DEBUG [main] cache:45 - Loading template for "spark/partials/device.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/M1058748/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/partials/device.ftl"
+2021-10-18 07:17:29,954 DEBUG [main] cache:45 - Couldn't find template in cache for "spark/partials/author.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-10-18 07:17:29,954 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/author_en_US.ftl"): Not found
+2021-10-18 07:17:29,955 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/author_en.ftl"): Not found
+2021-10-18 07:17:29,955 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/author.ftl"): Found
+2021-10-18 07:17:29,955 DEBUG [main] cache:45 - Loading template for "spark/partials/author.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/M1058748/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/partials/author.ftl"
+2021-10-18 07:17:29,956 DEBUG [main] cache:45 - Couldn't find template in cache for "spark/partials/log.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-10-18 07:17:29,956 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/log_en_US.ftl"): Not found
+2021-10-18 07:17:29,956 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/log_en.ftl"): Not found
+2021-10-18 07:17:29,956 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/log.ftl"): Found
+2021-10-18 07:17:29,957 DEBUG [main] cache:45 - Loading template for "spark/partials/log.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/M1058748/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/partials/log.ftl"
+2021-10-18 07:17:29,957 DEBUG [main] cache:45 - Couldn't find template in cache for "spark/partials/dashboard.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-10-18 07:17:29,958 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/dashboard_en_US.ftl"): Not found
+2021-10-18 07:17:29,958 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/dashboard_en.ftl"): Not found
+2021-10-18 07:17:29,958 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/dashboard.ftl"): Found
+2021-10-18 07:17:29,958 DEBUG [main] cache:45 - Loading template for "spark/partials/dashboard.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/M1058748/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/partials/dashboard.ftl"
+2021-10-18 07:17:29,982 DEBUG [main] cache:45 - Couldn't find template in cache for "spark/partials/scripts.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-10-18 07:17:29,995 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/scripts_en_US.ftl"): Not found
+2021-10-18 07:17:29,996 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/scripts_en.ftl"): Not found
+2021-10-18 07:17:29,996 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/scripts.ftl"): Found
+2021-10-18 07:17:29,997 DEBUG [main] cache:45 - Loading template for "spark/partials/scripts.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/M1058748/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/partials/scripts.ftl"
+2021-10-18 07:17:29,998 DEBUG [main] cache:45 - Couldn't find template in cache for "commons/commons-inject-js.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-10-18 07:17:29,998 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("commons/commons-inject-js_en_US.ftl"): Not found
+2021-10-18 07:17:29,999 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("commons/commons-inject-js_en.ftl"): Not found
+2021-10-18 07:17:29,999 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("commons/commons-inject-js.ftl"): Found
+2021-10-18 07:17:29,999 DEBUG [main] cache:45 - Loading template for "commons/commons-inject-js.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/M1058748/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/commons/commons-inject-js.ftl"
+2021-11-03 07:54:49,322  INFO [main] BasePage:50 - 
+2021-11-03 07:54:49,325  INFO [main] BasePage:51 - 
+2021-11-03 07:55:36,552  INFO [main] BasePage:50 - 
+2021-11-03 07:55:36,554  INFO [main] BasePage:51 - 
+2021-11-03 08:01:43,691  INFO [main] BasePage:50 - 
+2021-11-03 08:01:43,693  INFO [main] BasePage:51 - 
+2021-11-03 08:08:51,774  INFO [main] BasePage:50 - 
+2021-11-03 08:08:51,776  INFO [main] BasePage:51 - 
+2021-11-03 08:09:20,490  INFO [main] BasePage:163 - Agent Website opned https://qawww6.ziprealty.com/Coldwell-Banker-Best-Realty-7501c/William-Lee-325497a
+2021-11-03 08:09:23,534  INFO [main] BasePage:48 - Clicking the Elements using JavaScriptExecutor
+2021-11-03 08:09:38,571  INFO [main] BasePage:103 - Frame Switched
+2021-11-03 08:09:43,626  INFO [main] BasePage:50 - Cleared the Text Field for : 
+2021-11-03 08:09:43,688  INFO [main] BasePage:53 - Entering the Value: qa_1635907134325
+2021-11-03 08:09:43,743  INFO [main] BasePage:50 - Cleared the Text Field for : 
+2021-11-03 08:09:43,797  INFO [main] BasePage:53 - Entering the Value: qa_1635907134325
+2021-11-03 08:09:43,852  INFO [main] BasePage:50 - Cleared the Text Field for : 
+2021-11-03 08:09:43,935  INFO [main] BasePage:53 - Entering the Value: qa_1635907134325@gmail.com
+2021-11-03 08:09:43,992  INFO [main] BasePage:50 - Cleared the Text Field for : 
+2021-11-03 08:09:44,032  INFO [main] BasePage:53 - Entering the Value: password
+2021-11-03 08:26:34,752  INFO [main] BasePage:50 - chrome
+2021-11-03 08:26:34,754  INFO [main] BasePage:51 - 80
+2021-11-03 08:27:03,282  INFO [main] BasePage:151 - Opened the List Viewhttps://qawww5.ziprealty.com/for-sale-homes/Dallas-TX-2419c
+2021-11-03 08:27:08,306  INFO [main] BasePage:45 - saveSearchListView_Testing has been started
+2021-11-03 08:27:18,358  INFO [main] BasePage:48 - Clicking the Elements using JavaScriptExecutor
+2021-11-03 08:27:38,428  INFO [main] BasePage:103 - Frame Switched
+2021-11-03 08:27:43,482  INFO [main] BasePage:50 - Cleared the Text Field for : 
+2021-11-03 08:27:43,545  INFO [main] BasePage:53 - Entering the Value: qa_1635908197558
+2021-11-03 08:27:43,630  INFO [main] BasePage:50 - Cleared the Text Field for : 
+2021-11-03 08:27:43,684  INFO [main] BasePage:53 - Entering the Value: qa_1635908197558
+2021-11-03 08:27:43,738  INFO [main] BasePage:50 - Cleared the Text Field for : 
+2021-11-03 08:27:43,802  INFO [main] BasePage:53 - Entering the Value: qa_1635908197558@gmail.com
+2021-11-03 08:27:43,854  INFO [main] BasePage:50 - Cleared the Text Field for : 
+2021-11-03 08:27:43,898  INFO [main] BasePage:53 - Entering the Value: password
+2021-11-03 08:28:02,292  INFO [main] BasePage:88 - saveSearchListView_Test hasbeen Completed_Failed
+2021-11-03 08:28:08,073  INFO [main] BasePage:151 - Opened the List Viewhttps://qawww5.ziprealty.com/for-sale-homes/Dallas-TX-2419c
+2021-11-03 08:28:13,087  INFO [main] BasePage:45 - HeartIconinListView_Testing has been started
+2021-11-03 08:28:33,133  INFO [main] BasePage:48 - Clicking the Elements using JavaScriptExecutor
+2021-11-03 08:28:51,462  INFO [main] BasePage:88 - HeartIconinListView_Test hasbeen Completed_Failed
+2021-11-03 08:28:52,372  INFO [main] BasePage:50 - chrome
+2021-11-03 08:28:52,372  INFO [main] BasePage:51 - 80
+2021-11-03 08:29:27,255  INFO [main] BasePage:155 - Open the Home Details Pagehttps://qawww5.ziprealty.com/property/3510-Turtle-Creek-Blvd-Apt-7C-_UNIT_7C-Dallas-TX-75219/103628955/detail?src=list
+2021-11-03 08:29:32,259  INFO [main] BasePage:45 - RequestShowing_Testing has been started
+2021-11-03 08:29:37,285  INFO [main] BasePage:54 - Scrolling into view of the Eleent using JavaScriptExecutor
+2021-11-03 08:29:37,326  INFO [main] BasePage:48 - Clicking the Elements using JavaScriptExecutor
+2021-11-03 08:29:57,361  INFO [main] BasePage:103 - Frame Switched
+2021-11-03 08:30:02,425  INFO [main] BasePage:50 - Cleared the Text Field for : 
+2021-11-03 08:30:02,494  INFO [main] BasePage:53 - Entering the Value: qa_1635908333915
+2021-11-03 08:30:02,550  INFO [main] BasePage:50 - Cleared the Text Field for : 
+2021-11-03 08:30:02,603  INFO [main] BasePage:53 - Entering the Value: qa_1635908333915
+2021-11-03 08:30:02,652  INFO [main] BasePage:50 - Cleared the Text Field for : 
+2021-11-03 08:30:02,711  INFO [main] BasePage:53 - Entering the Value: qa_1635908333915@gmail.com
+2021-11-03 08:30:02,763  INFO [main] BasePage:50 - Cleared the Text Field for : 
+2021-11-03 08:30:02,810  INFO [main] BasePage:53 - Entering the Value: password
+2021-11-03 08:30:02,861  INFO [main] BasePage:50 - Cleared the Text Field for : 
+2021-11-03 08:30:02,907  INFO [main] BasePage:53 - Entering the Value: 9941765628
+2021-11-03 08:30:16,348  INFO [main] BasePage:88 - RequestShowing_Test hasbeen Completed_Failed
+2021-11-03 08:30:21,329  INFO [main] BasePage:155 - Open the Home Details Pagehttps://qawww5.ziprealty.com/property/3510-Turtle-Creek-Blvd-Apt-7C-_UNIT_7C-Dallas-TX-75219/103628955/detail?src=list
+2021-11-03 08:30:26,331  INFO [main] BasePage:45 - SaveHomeInDetailsPage_Testing has been started
+2021-11-03 08:30:31,408  INFO [main] BasePage:54 - Scrolling into view of the Eleent using JavaScriptExecutor
+2021-11-03 08:30:31,456  INFO [main] BasePage:48 - Clicking the Elements using JavaScriptExecutor
+2021-11-03 08:30:49,729  INFO [main] BasePage:88 - SaveHomeInDetailsPage_Test hasbeen Completed_Failed
+2021-11-03 08:30:53,773  INFO [main] BasePage:155 - Open the Home Details Pagehttps://qawww5.ziprealty.com/property/3510-Turtle-Creek-Blvd-Apt-7C-_UNIT_7C-Dallas-TX-75219/103628955/detail?src=list
+2021-11-03 08:30:58,773  INFO [main] BasePage:45 - RequestMoreInfo_Testing has been started
+2021-11-03 08:31:03,832  INFO [main] BasePage:54 - Scrolling into view of the Eleent using JavaScriptExecutor
+2021-11-03 08:31:03,892  INFO [main] BasePage:48 - Clicking the Elements using JavaScriptExecutor
+2021-11-03 08:31:23,932  INFO [main] BasePage:103 - Frame Switched
+2021-11-03 08:31:32,203  INFO [main] BasePage:88 - RequestMoreInfo_Test hasbeen Completed_Failed
+2021-11-03 08:31:48,571  INFO [main] BasePage:155 - Open the Home Details Pagehttps://qawww5.ziprealty.com/property/3510-Turtle-Creek-Blvd-Apt-7C-_UNIT_7C-Dallas-TX-75219/103628955/detail?src=list
+2021-11-03 08:31:53,573  INFO [main] BasePage:45 - GoSeeThisHome_Testing has been started
+2021-11-03 08:31:58,598  INFO [main] BasePage:54 - Scrolling into view of the Eleent using JavaScriptExecutor
+2021-11-03 08:31:58,641  INFO [main] BasePage:48 - Clicking the Elements using JavaScriptExecutor
+2021-11-03 08:32:18,675  INFO [main] BasePage:103 - Frame Switched
+2021-11-03 08:32:26,951  INFO [main] BasePage:88 - GoSeeThisHome_Test hasbeen Completed_Failed
+2021-11-03 08:32:30,484  INFO [main] BasePage:155 - Open the Home Details Pagehttps://qawww5.ziprealty.com/property/3510-Turtle-Creek-Blvd-Apt-7C-_UNIT_7C-Dallas-TX-75219/103628955/detail?src=list
+2021-11-03 08:32:35,487  INFO [main] BasePage:45 - TourThisHomeInHD_Testing has been started
+2021-11-03 08:32:50,531  INFO [main] BasePage:103 - Frame Switched
+2021-11-03 08:32:58,761  INFO [main] BasePage:88 - TourThisHomeInHD_Test hasbeen Completed_Failed
+2021-11-03 08:32:59,835  INFO [main] BasePage:50 - chrome
+2021-11-03 08:32:59,835  INFO [main] BasePage:51 - 80
+2021-11-03 08:33:28,651  INFO [main] BasePage:163 - Agent Website opned https://qawww5.ziprealty.com/ERA-Cornerstone-Realty-64c/Ben-Burnside-185667a
+2021-11-03 08:33:31,654  INFO [main] BasePage:45 - contactAgent_Testing has been started
+2021-11-03 08:33:31,705  INFO [main] BasePage:48 - Clicking the Elements using JavaScriptExecutor
+2021-11-03 08:33:46,756  INFO [main] BasePage:103 - Frame Switched
+2021-11-03 08:33:51,828  INFO [main] BasePage:50 - Cleared the Text Field for : 
+2021-11-03 08:33:51,924  INFO [main] BasePage:53 - Entering the Value: qa_1635908581834
+2021-11-03 08:33:52,002  INFO [main] BasePage:50 - Cleared the Text Field for : 
+2021-11-03 08:33:52,077  INFO [main] BasePage:53 - Entering the Value: qa_1635908581834
+2021-11-03 08:33:52,156  INFO [main] BasePage:50 - Cleared the Text Field for : 
+2021-11-03 08:33:52,259  INFO [main] BasePage:53 - Entering the Value: qa_1635908581834@gmail.com
+2021-11-03 08:33:52,352  INFO [main] BasePage:50 - Cleared the Text Field for : 
+2021-11-03 08:33:52,424  INFO [main] BasePage:53 - Entering the Value: password
+2021-11-03 08:33:57,611  INFO [main] BasePage:36 - Captcha is Displayed
+2021-11-03 08:33:57,612  INFO [main] BasePage:40 - Tesing Completed
+2021-11-03 08:33:58,320  INFO [main] BasePage:66 - contactAgent_Testing has been completed
+2021-11-03 08:33:59,222  INFO [main] BasePage:50 - chrome
+2021-11-03 08:33:59,222  INFO [main] BasePage:51 - 80
+2021-11-03 08:34:18,173  INFO [main] BasePage:159 - Open the SignUp urlhttps://qawww5.ziprealty.com/registration/register_all.jsp?metro=dallas
+2021-11-03 08:34:23,176  INFO [main] BasePage:45 - DirectSignupContact_Testing has been started
+2021-11-03 08:34:23,269  INFO [main] BasePage:50 - Cleared the Text Field for : 
+2021-11-03 08:34:23,346  INFO [main] BasePage:53 - Entering the Value: qa_1635908641559
+2021-11-03 08:34:23,425  INFO [main] BasePage:50 - Cleared the Text Field for : 
+2021-11-03 08:34:23,511  INFO [main] BasePage:53 - Entering the Value: qa_1635908641559
+2021-11-03 08:34:23,600  INFO [main] BasePage:50 - Cleared the Text Field for : 
+2021-11-03 08:34:23,694  INFO [main] BasePage:53 - Entering the Value: qa_1635908641559@gmail.com
+2021-11-03 08:34:23,780  INFO [main] BasePage:50 - Cleared the Text Field for : 
+2021-11-03 08:34:23,897  INFO [main] BasePage:53 - Entering the Value: qa_1635908641559@gmail.com
+2021-11-03 08:34:23,997  INFO [main] BasePage:50 - Cleared the Text Field for : 
+2021-11-03 08:34:24,069  INFO [main] BasePage:53 - Entering the Value: password
+2021-11-03 08:34:24,159  INFO [main] BasePage:50 - Cleared the Text Field for : 
+2021-11-03 08:34:24,230  INFO [main] BasePage:53 - Entering the Value: password
+2021-11-03 08:34:24,345  INFO [main] BasePage:50 - Cleared the Text Field for : 
+2021-11-03 08:34:24,423  INFO [main] BasePage:53 - Entering the Value: 9941765628
+2021-11-03 08:34:32,234  INFO [main] BasePage:48 - Clicking the Elements using JavaScriptExecutor
+2021-11-03 08:34:32,235  INFO [main] BasePage:34 - Testing the Direct Signup
+2021-11-03 08:34:32,471  INFO [main] BasePage:66 - DirectSignupContact_Testing has been completed
+2021-11-03 08:34:33,349 DEBUG [main] cache:45 - Couldn't find template in cache for "spark/spark.spa.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-11-03 08:34:33,350 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/spark.spa_en_US.ftl"): Not found
+2021-11-03 08:34:33,351 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/spark.spa_en.ftl"): Not found
+2021-11-03 08:34:33,353 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/spark.spa.ftl"): Found
+2021-11-03 08:34:33,353 DEBUG [main] cache:45 - Loading template for "spark/spark.spa.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/M1058748/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/spark.spa.ftl"
+2021-11-03 08:34:33,430 DEBUG [main] cache:45 - Couldn't find template in cache for "commons/commons-variables.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-11-03 08:34:33,431 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("commons/commons-variables_en_US.ftl"): Not found
+2021-11-03 08:34:33,431 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("commons/commons-variables_en.ftl"): Not found
+2021-11-03 08:34:33,432 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("commons/commons-variables.ftl"): Found
+2021-11-03 08:34:33,432 DEBUG [main] cache:45 - Loading template for "commons/commons-variables.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/M1058748/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/commons/commons-variables.ftl"
+2021-11-03 08:34:33,536 DEBUG [main] cache:45 - Couldn't find template in cache for "commons/commons-macros.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-11-03 08:34:33,536 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("commons/commons-macros_en_US.ftl"): Not found
+2021-11-03 08:34:33,537 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("commons/commons-macros_en.ftl"): Not found
+2021-11-03 08:34:33,537 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("commons/commons-macros.ftl"): Found
+2021-11-03 08:34:33,537 DEBUG [main] cache:45 - Loading template for "commons/commons-macros.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/M1058748/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/commons/commons-macros.ftl"
+2021-11-03 08:34:33,549 DEBUG [main] cache:45 - Couldn't find template in cache for "spark/macros/attributes.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-11-03 08:34:33,549 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/macros/attributes_en_US.ftl"): Not found
+2021-11-03 08:34:33,549 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/macros/attributes_en.ftl"): Not found
+2021-11-03 08:34:33,550 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/macros/attributes.ftl"): Found
+2021-11-03 08:34:33,550 DEBUG [main] cache:45 - Loading template for "spark/macros/attributes.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/M1058748/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/macros/attributes.ftl"
+2021-11-03 08:34:33,552 DEBUG [main] cache:45 - Couldn't find template in cache for "spark/macros/log.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-11-03 08:34:33,552 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/macros/log_en_US.ftl"): Not found
+2021-11-03 08:34:33,552 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/macros/log_en.ftl"): Not found
+2021-11-03 08:34:33,553 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/macros/log.ftl"): Found
+2021-11-03 08:34:33,553 DEBUG [main] cache:45 - Loading template for "spark/macros/log.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/M1058748/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/macros/log.ftl"
+2021-11-03 08:34:33,556 DEBUG [main] cache:45 - Couldn't find template in cache for "spark/macros/recurse_nodes.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-11-03 08:34:33,557 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/macros/recurse_nodes_en_US.ftl"): Not found
+2021-11-03 08:34:33,557 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/macros/recurse_nodes_en.ftl"): Not found
+2021-11-03 08:34:33,558 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/macros/recurse_nodes.ftl"): Found
+2021-11-03 08:34:33,558 DEBUG [main] cache:45 - Loading template for "spark/macros/recurse_nodes.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/M1058748/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/macros/recurse_nodes.ftl"
+2021-11-03 08:34:33,561 DEBUG [main] cache:45 - "spark/macros/log.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-11-03 08:34:33,561 DEBUG [main] cache:45 - Couldn't find template in cache for "spark/macros/attr-common.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-11-03 08:34:33,562 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/macros/attr-common_en_US.ftl"): Not found
+2021-11-03 08:34:33,562 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/macros/attr-common_en.ftl"): Not found
+2021-11-03 08:34:33,563 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/macros/attr-common.ftl"): Found
+2021-11-03 08:34:33,563 DEBUG [main] cache:45 - Loading template for "spark/macros/attr-common.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/M1058748/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/macros/attr-common.ftl"
+2021-11-03 08:34:33,572 DEBUG [main] cache:45 - Couldn't find template in cache for "spark/partials/head.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-11-03 08:34:33,573 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/head_en_US.ftl"): Not found
+2021-11-03 08:34:33,573 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/head_en.ftl"): Not found
+2021-11-03 08:34:33,574 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/head.ftl"): Found
+2021-11-03 08:34:33,574 DEBUG [main] cache:45 - Loading template for "spark/partials/head.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/M1058748/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/partials/head.ftl"
+2021-11-03 08:34:33,579 DEBUG [main] cache:45 - Couldn't find template in cache for "commons/commons-inject-css.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-11-03 08:34:33,579 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("commons/commons-inject-css_en_US.ftl"): Not found
+2021-11-03 08:34:33,580 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("commons/commons-inject-css_en.ftl"): Not found
+2021-11-03 08:34:33,580 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("commons/commons-inject-css.ftl"): Found
+2021-11-03 08:34:33,581 DEBUG [main] cache:45 - Loading template for "commons/commons-inject-css.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/M1058748/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/commons/commons-inject-css.ftl"
+2021-11-03 08:34:33,582 DEBUG [main] cache:45 - Couldn't find template in cache for "spark/partials/navbar.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-11-03 08:34:33,583 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/navbar_en_US.ftl"): Not found
+2021-11-03 08:34:33,583 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/navbar_en.ftl"): Not found
+2021-11-03 08:34:33,584 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/navbar.ftl"): Found
+2021-11-03 08:34:33,584 DEBUG [main] cache:45 - Loading template for "spark/partials/navbar.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/M1058748/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/partials/navbar.ftl"
+2021-11-03 08:34:33,591 DEBUG [main] cache:45 - Couldn't find template in cache for "spark/partials/sidenav.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-11-03 08:34:33,592 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/sidenav_en_US.ftl"): Not found
+2021-11-03 08:34:33,592 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/sidenav_en.ftl"): Not found
+2021-11-03 08:34:33,593 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/sidenav.ftl"): Found
+2021-11-03 08:34:33,593 DEBUG [main] cache:45 - Loading template for "spark/partials/sidenav.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/M1058748/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/partials/sidenav.ftl"
+2021-11-03 08:34:33,607 DEBUG [main] cache:45 - Couldn't find template in cache for "spark/partials/test.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-11-03 08:34:33,607 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/test_en_US.ftl"): Not found
+2021-11-03 08:34:33,608 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/test_en.ftl"): Not found
+2021-11-03 08:34:33,608 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/test.ftl"): Found
+2021-11-03 08:34:33,608 DEBUG [main] cache:45 - Loading template for "spark/partials/test.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/M1058748/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/partials/test.ftl"
+2021-11-03 08:34:33,621 DEBUG [main] cache:45 - Couldn't find template in cache for "spark/partials/standard-content.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-11-03 08:34:33,621 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/standard-content_en_US.ftl"): Not found
+2021-11-03 08:34:33,621 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/standard-content_en.ftl"): Not found
+2021-11-03 08:34:33,622 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/standard-content.ftl"): Found
+2021-11-03 08:34:33,622 DEBUG [main] cache:45 - Loading template for "spark/partials/standard-content.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/M1058748/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/partials/standard-content.ftl"
+2021-11-03 08:34:33,632 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-11-03 08:34:33,633 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-11-03 08:34:33,635 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-11-03 08:34:33,637 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-11-03 08:34:33,639 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-11-03 08:34:33,641 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-11-03 08:34:33,644 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-11-03 08:34:33,646 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-11-03 08:34:33,648 DEBUG [main] cache:45 - Couldn't find template in cache for "spark/partials/exception.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-11-03 08:34:33,648 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/exception_en_US.ftl"): Not found
+2021-11-03 08:34:33,649 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/exception_en.ftl"): Not found
+2021-11-03 08:34:33,650 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/exception.ftl"): Found
+2021-11-03 08:34:33,650 DEBUG [main] cache:45 - Loading template for "spark/partials/exception.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/M1058748/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/partials/exception.ftl"
+2021-11-03 08:34:33,656 DEBUG [main] cache:45 - Couldn't find template in cache for "spark/partials/category.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-11-03 08:34:33,657 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/category_en_US.ftl"): Not found
+2021-11-03 08:34:33,657 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/category_en.ftl"): Not found
+2021-11-03 08:34:33,658 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/category.ftl"): Found
+2021-11-03 08:34:33,658 DEBUG [main] cache:45 - Loading template for "spark/partials/category.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/M1058748/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/partials/category.ftl"
+2021-11-03 08:34:33,660 DEBUG [main] cache:45 - Couldn't find template in cache for "spark/partials/device.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-11-03 08:34:33,660 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/device_en_US.ftl"): Not found
+2021-11-03 08:34:33,661 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/device_en.ftl"): Not found
+2021-11-03 08:34:33,661 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/device.ftl"): Found
+2021-11-03 08:34:33,661 DEBUG [main] cache:45 - Loading template for "spark/partials/device.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/M1058748/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/partials/device.ftl"
+2021-11-03 08:34:33,662 DEBUG [main] cache:45 - Couldn't find template in cache for "spark/partials/author.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-11-03 08:34:33,663 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/author_en_US.ftl"): Not found
+2021-11-03 08:34:33,663 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/author_en.ftl"): Not found
+2021-11-03 08:34:33,664 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/author.ftl"): Found
+2021-11-03 08:34:33,664 DEBUG [main] cache:45 - Loading template for "spark/partials/author.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/M1058748/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/partials/author.ftl"
+2021-11-03 08:34:33,665 DEBUG [main] cache:45 - Couldn't find template in cache for "spark/partials/log.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-11-03 08:34:33,665 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/log_en_US.ftl"): Not found
+2021-11-03 08:34:33,666 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/log_en.ftl"): Not found
+2021-11-03 08:34:33,666 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/log.ftl"): Found
+2021-11-03 08:34:33,667 DEBUG [main] cache:45 - Loading template for "spark/partials/log.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/M1058748/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/partials/log.ftl"
+2021-11-03 08:34:33,668 DEBUG [main] cache:45 - Couldn't find template in cache for "spark/partials/dashboard.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-11-03 08:34:33,669 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/dashboard_en_US.ftl"): Not found
+2021-11-03 08:34:33,669 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/dashboard_en.ftl"): Not found
+2021-11-03 08:34:33,670 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/dashboard.ftl"): Found
+2021-11-03 08:34:33,670 DEBUG [main] cache:45 - Loading template for "spark/partials/dashboard.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/M1058748/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/partials/dashboard.ftl"
+2021-11-03 08:34:33,710 DEBUG [main] cache:45 - Couldn't find template in cache for "spark/partials/scripts.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-11-03 08:34:33,711 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/scripts_en_US.ftl"): Not found
+2021-11-03 08:34:33,712 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/scripts_en.ftl"): Not found
+2021-11-03 08:34:33,712 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/scripts.ftl"): Found
+2021-11-03 08:34:33,713 DEBUG [main] cache:45 - Loading template for "spark/partials/scripts.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/M1058748/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/partials/scripts.ftl"
+2021-11-03 08:34:33,715 DEBUG [main] cache:45 - Couldn't find template in cache for "commons/commons-inject-js.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-11-03 08:34:33,715 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("commons/commons-inject-js_en_US.ftl"): Not found
+2021-11-03 08:34:33,716 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("commons/commons-inject-js_en.ftl"): Not found
+2021-11-03 08:34:33,716 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("commons/commons-inject-js.ftl"): Found
+2021-11-03 08:34:33,716 DEBUG [main] cache:45 - Loading template for "commons/commons-inject-js.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/M1058748/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/commons/commons-inject-js.ftl"
+2021-11-03 08:34:48,825  INFO [main] BasePage:50 - chrome
+2021-11-03 08:34:48,827  INFO [main] BasePage:51 - 80
+2021-11-03 08:35:14,542  INFO [main] BasePage:151 - Opened the List Viewhttps://qawww3.ziprealty.com/for-sale-homes/Dallas-TX-2419c
+2021-11-03 08:35:19,574  INFO [main] BasePage:45 - saveSearchListView_Testing has been started
+2021-11-03 08:35:29,614  INFO [main] BasePage:48 - Clicking the Elements using JavaScriptExecutor
+2021-11-03 08:35:49,650  INFO [main] BasePage:103 - Frame Switched
+2021-11-03 08:35:54,720  INFO [main] BasePage:50 - Cleared the Text Field for : 
+2021-11-03 08:35:54,806  INFO [main] BasePage:53 - Entering the Value: qa_1635908691529
+2021-11-03 08:35:54,869  INFO [main] BasePage:50 - Cleared the Text Field for : 
+2021-11-03 08:35:54,947  INFO [main] BasePage:53 - Entering the Value: qa_1635908691529
+2021-11-03 08:35:55,004  INFO [main] BasePage:50 - Cleared the Text Field for : 
+2021-11-03 08:35:55,132  INFO [main] BasePage:53 - Entering the Value: qa_1635908691529@gmail.com
+2021-11-03 08:35:55,216  INFO [main] BasePage:50 - Cleared the Text Field for : 
+2021-11-03 08:35:55,281  INFO [main] BasePage:53 - Entering the Value: password
+2021-11-03 08:36:00,454  INFO [main] BasePage:36 - Captcha is Displayed
+2021-11-03 08:36:01,030  INFO [main] BasePage:66 - saveSearchListView_Testing has been completed
+2021-11-03 08:36:10,134  INFO [main] BasePage:151 - Opened the List Viewhttps://qawww3.ziprealty.com/for-sale-homes/Dallas-TX-2419c
+2021-11-03 08:36:15,135  INFO [main] BasePage:45 - HeartIconinListView_Testing has been started
+2021-11-03 08:36:35,172  INFO [main] BasePage:48 - Clicking the Elements using JavaScriptExecutor
+2021-11-03 08:36:55,213  INFO [main] BasePage:103 - Frame Switched
+2021-11-03 08:37:00,276  INFO [main] BasePage:50 - Cleared the Text Field for : 
+2021-11-03 08:37:00,352  INFO [main] BasePage:53 - Entering the Value: qa_1635908691529
+2021-11-03 08:37:00,417  INFO [main] BasePage:50 - Cleared the Text Field for : 
+2021-11-03 08:37:00,489  INFO [main] BasePage:53 - Entering the Value: qa_1635908691529
+2021-11-03 08:37:00,558  INFO [main] BasePage:50 - Cleared the Text Field for : 
+2021-11-03 08:37:00,638  INFO [main] BasePage:53 - Entering the Value: qa_1635908691529@gmail.com
+2021-11-03 08:37:00,708  INFO [main] BasePage:50 - Cleared the Text Field for : 
+2021-11-03 08:37:00,768  INFO [main] BasePage:53 - Entering the Value: password
+2021-11-03 08:37:06,262  INFO [main] BasePage:88 - HeartIconinListView_Test hasbeen Completed_Failed
+2021-11-03 08:37:07,191  INFO [main] BasePage:50 - chrome
+2021-11-03 08:37:07,191  INFO [main] BasePage:51 - 80
+2021-11-03 08:37:42,841  INFO [main] BasePage:155 - Open the Home Details Pagehttps://qawww3.ziprealty.com/property/3510-Turtle-Creek-Blvd-Apt-7C-_UNIT_7C-Dallas-TX-75219/103628955/detail?src=list
+2021-11-03 08:37:47,843  INFO [main] BasePage:45 - RequestShowing_Testing has been started
+2021-11-03 08:37:52,873  INFO [main] BasePage:54 - Scrolling into view of the Eleent using JavaScriptExecutor
+2021-11-03 08:37:52,948  INFO [main] BasePage:48 - Clicking the Elements using JavaScriptExecutor
+2021-11-03 08:38:12,995  INFO [main] BasePage:103 - Frame Switched
+2021-11-03 08:38:18,055  INFO [main] BasePage:50 - Cleared the Text Field for : 
+2021-11-03 08:38:18,131  INFO [main] BasePage:53 - Entering the Value: qa_1635908829183
+2021-11-03 08:38:18,202  INFO [main] BasePage:50 - Cleared the Text Field for : 
+2021-11-03 08:38:18,264  INFO [main] BasePage:53 - Entering the Value: qa_1635908829183
+2021-11-03 08:38:18,321  INFO [main] BasePage:50 - Cleared the Text Field for : 
+2021-11-03 08:38:18,392  INFO [main] BasePage:53 - Entering the Value: qa_1635908829183@gmail.com
+2021-11-03 08:38:18,453  INFO [main] BasePage:50 - Cleared the Text Field for : 
+2021-11-03 08:38:18,509  INFO [main] BasePage:53 - Entering the Value: password
+2021-11-03 08:38:18,580  INFO [main] BasePage:50 - Cleared the Text Field for : 
+2021-11-03 08:38:18,643  INFO [main] BasePage:53 - Entering the Value: 9941765628
+2021-11-03 08:38:32,079  INFO [main] BasePage:88 - RequestShowing_Test hasbeen Completed_Failed
+2021-11-03 08:39:07,456  INFO [main] BasePage:155 - Open the Home Details Pagehttps://qawww3.ziprealty.com/property/3510-Turtle-Creek-Blvd-Apt-7C-_UNIT_7C-Dallas-TX-75219/103628955/detail?src=list
+2021-11-03 08:39:12,457  INFO [main] BasePage:45 - SaveHomeInDetailsPage_Testing has been started
+2021-11-03 08:39:17,493  INFO [main] BasePage:54 - Scrolling into view of the Eleent using JavaScriptExecutor
+2021-11-03 08:39:17,539  INFO [main] BasePage:48 - Clicking the Elements using JavaScriptExecutor
+2021-11-03 08:39:35,815  INFO [main] BasePage:88 - SaveHomeInDetailsPage_Test hasbeen Completed_Failed
+2021-11-03 08:39:46,194  INFO [main] BasePage:155 - Open the Home Details Pagehttps://qawww3.ziprealty.com/property/3510-Turtle-Creek-Blvd-Apt-7C-_UNIT_7C-Dallas-TX-75219/103628955/detail?src=list
+2021-11-03 08:39:51,195  INFO [main] BasePage:45 - RequestMoreInfo_Testing has been started
+2021-11-03 08:39:56,221  INFO [main] BasePage:54 - Scrolling into view of the Eleent using JavaScriptExecutor
+2021-11-03 08:39:56,314  INFO [main] BasePage:48 - Clicking the Elements using JavaScriptExecutor
+2021-11-03 08:40:16,354  INFO [main] BasePage:103 - Frame Switched
+2021-11-03 08:40:24,708  INFO [main] BasePage:88 - RequestMoreInfo_Test hasbeen Completed_Failed
+2021-11-03 08:40:36,805  INFO [main] BasePage:155 - Open the Home Details Pagehttps://qawww3.ziprealty.com/property/3510-Turtle-Creek-Blvd-Apt-7C-_UNIT_7C-Dallas-TX-75219/103628955/detail?src=list
+2021-11-03 08:40:41,808  INFO [main] BasePage:45 - GoSeeThisHome_Testing has been started
+2021-11-03 08:40:46,831  INFO [main] BasePage:54 - Scrolling into view of the Eleent using JavaScriptExecutor
+2021-11-03 08:40:46,903  INFO [main] BasePage:48 - Clicking the Elements using JavaScriptExecutor
+2021-11-03 08:41:06,946  INFO [main] BasePage:103 - Frame Switched
+2021-11-03 08:41:15,387  INFO [main] BasePage:88 - GoSeeThisHome_Test hasbeen Completed_Failed
+2021-11-03 08:41:33,314  INFO [main] BasePage:155 - Open the Home Details Pagehttps://qawww3.ziprealty.com/property/3510-Turtle-Creek-Blvd-Apt-7C-_UNIT_7C-Dallas-TX-75219/103628955/detail?src=list
+2021-11-03 08:41:38,315  INFO [main] BasePage:45 - TourThisHomeInHD_Testing has been started
+2021-11-03 08:41:53,355  INFO [main] BasePage:103 - Frame Switched
+2021-11-03 08:42:01,716  INFO [main] BasePage:88 - TourThisHomeInHD_Test hasbeen Completed_Failed
+2021-11-03 08:42:02,826  INFO [main] BasePage:50 - chrome
+2021-11-03 08:42:02,826  INFO [main] BasePage:51 - 80
+2021-11-03 08:42:29,156  INFO [main] BasePage:163 - Agent Website opned https://qawww3.ziprealty.com/Better-Homes-and-Gardens-Real-Estate-Winans-3894c/Gary-Lewis-229770a
+2021-11-03 08:42:32,156  INFO [main] BasePage:45 - contactAgent_Testing has been started
+2021-11-03 08:42:32,202  INFO [main] BasePage:48 - Clicking the Elements using JavaScriptExecutor
+2021-11-03 08:42:47,246  INFO [main] BasePage:103 - Frame Switched
+2021-11-03 08:42:52,386  INFO [main] BasePage:50 - Cleared the Text Field for : 
+2021-11-03 08:42:52,577  INFO [main] BasePage:53 - Entering the Value: qa_1635909125003
+2021-11-03 08:42:52,711  INFO [main] BasePage:50 - Cleared the Text Field for : 
+2021-11-03 08:42:52,852  INFO [main] BasePage:53 - Entering the Value: qa_1635909125003
+2021-11-03 08:42:52,965  INFO [main] BasePage:50 - Cleared the Text Field for : 
+2021-11-03 08:42:53,077  INFO [main] BasePage:53 - Entering the Value: qa_1635909125003@gmail.com
+2021-11-03 08:42:53,169  INFO [main] BasePage:50 - Cleared the Text Field for : 
+2021-11-03 08:42:53,246  INFO [main] BasePage:53 - Entering the Value: password
+2021-11-03 08:43:09,095  INFO [main] BasePage:88 - contactAgent_Test hasbeen Completed_Failed
+2021-11-03 08:43:10,027  INFO [main] BasePage:50 - chrome
+2021-11-03 08:43:10,027  INFO [main] BasePage:51 - 80
+2021-11-03 08:43:27,313  INFO [main] BasePage:159 - Open the SignUp urlhttps://qawww3.ziprealty.com/registration/register_all.jsp?metro=dallas
+2021-11-03 08:43:32,314  INFO [main] BasePage:45 - DirectSignupContact_Testing has been started
+2021-11-03 08:43:32,389  INFO [main] BasePage:50 - Cleared the Text Field for : 
+2021-11-03 08:43:32,445  INFO [main] BasePage:53 - Entering the Value: qa_1635909192317
+2021-11-03 08:43:32,518  INFO [main] BasePage:50 - Cleared the Text Field for : 
+2021-11-03 08:43:32,595  INFO [main] BasePage:53 - Entering the Value: qa_1635909192317
+2021-11-03 08:43:32,684  INFO [main] BasePage:50 - Cleared the Text Field for : 
+2021-11-03 08:43:32,780  INFO [main] BasePage:53 - Entering the Value: qa_1635909192317@gmail.com
+2021-11-03 08:43:32,867  INFO [main] BasePage:50 - Cleared the Text Field for : 
+2021-11-03 08:43:32,965  INFO [main] BasePage:53 - Entering the Value: qa_1635909192317@gmail.com
+2021-11-03 08:43:33,064  INFO [main] BasePage:50 - Cleared the Text Field for : 
+2021-11-03 08:43:33,144  INFO [main] BasePage:53 - Entering the Value: password
+2021-11-03 08:43:33,255  INFO [main] BasePage:50 - Cleared the Text Field for : 
+2021-11-03 08:43:33,334  INFO [main] BasePage:53 - Entering the Value: password
+2021-11-03 08:43:33,446  INFO [main] BasePage:50 - Cleared the Text Field for : 
+2021-11-03 08:43:33,551  INFO [main] BasePage:53 - Entering the Value: 9941765628
+2021-11-03 08:43:41,876  INFO [main] BasePage:48 - Clicking the Elements using JavaScriptExecutor
+2021-11-03 08:43:41,876  INFO [main] BasePage:34 - Testing the Direct Signup
+2021-11-03 08:43:42,168  INFO [main] BasePage:66 - DirectSignupContact_Testing has been completed
+2021-11-03 08:43:43,114 DEBUG [main] cache:45 - Couldn't find template in cache for "spark/spark.spa.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-11-03 08:43:43,115 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/spark.spa_en_US.ftl"): Not found
+2021-11-03 08:43:43,117 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/spark.spa_en.ftl"): Not found
+2021-11-03 08:43:43,118 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/spark.spa.ftl"): Found
+2021-11-03 08:43:43,118 DEBUG [main] cache:45 - Loading template for "spark/spark.spa.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/M1058748/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/spark.spa.ftl"
+2021-11-03 08:43:43,196 DEBUG [main] cache:45 - Couldn't find template in cache for "commons/commons-variables.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-11-03 08:43:43,197 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("commons/commons-variables_en_US.ftl"): Not found
+2021-11-03 08:43:43,197 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("commons/commons-variables_en.ftl"): Not found
+2021-11-03 08:43:43,198 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("commons/commons-variables.ftl"): Found
+2021-11-03 08:43:43,198 DEBUG [main] cache:45 - Loading template for "commons/commons-variables.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/M1058748/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/commons/commons-variables.ftl"
+2021-11-03 08:43:43,325 DEBUG [main] cache:45 - Couldn't find template in cache for "commons/commons-macros.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-11-03 08:43:43,326 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("commons/commons-macros_en_US.ftl"): Not found
+2021-11-03 08:43:43,326 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("commons/commons-macros_en.ftl"): Not found
+2021-11-03 08:43:43,327 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("commons/commons-macros.ftl"): Found
+2021-11-03 08:43:43,327 DEBUG [main] cache:45 - Loading template for "commons/commons-macros.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/M1058748/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/commons/commons-macros.ftl"
+2021-11-03 08:43:43,343 DEBUG [main] cache:45 - Couldn't find template in cache for "spark/macros/attributes.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-11-03 08:43:43,343 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/macros/attributes_en_US.ftl"): Not found
+2021-11-03 08:43:43,344 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/macros/attributes_en.ftl"): Not found
+2021-11-03 08:43:43,345 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/macros/attributes.ftl"): Found
+2021-11-03 08:43:43,345 DEBUG [main] cache:45 - Loading template for "spark/macros/attributes.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/M1058748/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/macros/attributes.ftl"
+2021-11-03 08:43:43,348 DEBUG [main] cache:45 - Couldn't find template in cache for "spark/macros/log.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-11-03 08:43:43,349 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/macros/log_en_US.ftl"): Not found
+2021-11-03 08:43:43,349 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/macros/log_en.ftl"): Not found
+2021-11-03 08:43:43,350 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/macros/log.ftl"): Found
+2021-11-03 08:43:43,350 DEBUG [main] cache:45 - Loading template for "spark/macros/log.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/M1058748/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/macros/log.ftl"
+2021-11-03 08:43:43,354 DEBUG [main] cache:45 - Couldn't find template in cache for "spark/macros/recurse_nodes.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-11-03 08:43:43,354 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/macros/recurse_nodes_en_US.ftl"): Not found
+2021-11-03 08:43:43,355 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/macros/recurse_nodes_en.ftl"): Not found
+2021-11-03 08:43:43,356 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/macros/recurse_nodes.ftl"): Found
+2021-11-03 08:43:43,356 DEBUG [main] cache:45 - Loading template for "spark/macros/recurse_nodes.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/M1058748/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/macros/recurse_nodes.ftl"
+2021-11-03 08:43:43,360 DEBUG [main] cache:45 - "spark/macros/log.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-11-03 08:43:43,361 DEBUG [main] cache:45 - Couldn't find template in cache for "spark/macros/attr-common.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-11-03 08:43:43,361 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/macros/attr-common_en_US.ftl"): Not found
+2021-11-03 08:43:43,362 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/macros/attr-common_en.ftl"): Not found
+2021-11-03 08:43:43,363 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/macros/attr-common.ftl"): Found
+2021-11-03 08:43:43,363 DEBUG [main] cache:45 - Loading template for "spark/macros/attr-common.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/M1058748/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/macros/attr-common.ftl"
+2021-11-03 08:43:43,371 DEBUG [main] cache:45 - Couldn't find template in cache for "spark/partials/head.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-11-03 08:43:43,371 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/head_en_US.ftl"): Not found
+2021-11-03 08:43:43,372 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/head_en.ftl"): Not found
+2021-11-03 08:43:43,372 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/head.ftl"): Found
+2021-11-03 08:43:43,372 DEBUG [main] cache:45 - Loading template for "spark/partials/head.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/M1058748/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/partials/head.ftl"
+2021-11-03 08:43:43,377 DEBUG [main] cache:45 - Couldn't find template in cache for "commons/commons-inject-css.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-11-03 08:43:43,378 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("commons/commons-inject-css_en_US.ftl"): Not found
+2021-11-03 08:43:43,379 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("commons/commons-inject-css_en.ftl"): Not found
+2021-11-03 08:43:43,379 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("commons/commons-inject-css.ftl"): Found
+2021-11-03 08:43:43,380 DEBUG [main] cache:45 - Loading template for "commons/commons-inject-css.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/M1058748/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/commons/commons-inject-css.ftl"
+2021-11-03 08:43:43,381 DEBUG [main] cache:45 - Couldn't find template in cache for "spark/partials/navbar.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-11-03 08:43:43,381 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/navbar_en_US.ftl"): Not found
+2021-11-03 08:43:43,382 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/navbar_en.ftl"): Not found
+2021-11-03 08:43:43,382 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/navbar.ftl"): Found
+2021-11-03 08:43:43,383 DEBUG [main] cache:45 - Loading template for "spark/partials/navbar.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/M1058748/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/partials/navbar.ftl"
+2021-11-03 08:43:43,391 DEBUG [main] cache:45 - Couldn't find template in cache for "spark/partials/sidenav.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-11-03 08:43:43,391 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/sidenav_en_US.ftl"): Not found
+2021-11-03 08:43:43,392 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/sidenav_en.ftl"): Not found
+2021-11-03 08:43:43,392 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/sidenav.ftl"): Found
+2021-11-03 08:43:43,393 DEBUG [main] cache:45 - Loading template for "spark/partials/sidenav.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/M1058748/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/partials/sidenav.ftl"
+2021-11-03 08:43:43,415 DEBUG [main] cache:45 - Couldn't find template in cache for "spark/partials/test.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-11-03 08:43:43,416 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/test_en_US.ftl"): Not found
+2021-11-03 08:43:43,417 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/test_en.ftl"): Not found
+2021-11-03 08:43:43,418 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/test.ftl"): Found
+2021-11-03 08:43:43,418 DEBUG [main] cache:45 - Loading template for "spark/partials/test.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/M1058748/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/partials/test.ftl"
+2021-11-03 08:43:43,434 DEBUG [main] cache:45 - Couldn't find template in cache for "spark/partials/standard-content.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-11-03 08:43:43,435 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/standard-content_en_US.ftl"): Not found
+2021-11-03 08:43:43,435 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/standard-content_en.ftl"): Not found
+2021-11-03 08:43:43,436 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/standard-content.ftl"): Found
+2021-11-03 08:43:43,436 DEBUG [main] cache:45 - Loading template for "spark/partials/standard-content.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/M1058748/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/partials/standard-content.ftl"
+2021-11-03 08:43:43,447 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-11-03 08:43:43,451 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-11-03 08:43:43,454 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-11-03 08:43:43,456 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-11-03 08:43:43,458 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-11-03 08:43:43,460 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-11-03 08:43:43,463 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-11-03 08:43:43,465 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-11-03 08:43:43,466 DEBUG [main] cache:45 - Couldn't find template in cache for "spark/partials/exception.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-11-03 08:43:43,466 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/exception_en_US.ftl"): Not found
+2021-11-03 08:43:43,467 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/exception_en.ftl"): Not found
+2021-11-03 08:43:43,467 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/exception.ftl"): Found
+2021-11-03 08:43:43,467 DEBUG [main] cache:45 - Loading template for "spark/partials/exception.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/M1058748/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/partials/exception.ftl"
+2021-11-03 08:43:43,472 DEBUG [main] cache:45 - Couldn't find template in cache for "spark/partials/category.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-11-03 08:43:43,473 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/category_en_US.ftl"): Not found
+2021-11-03 08:43:43,473 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/category_en.ftl"): Not found
+2021-11-03 08:43:43,474 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/category.ftl"): Found
+2021-11-03 08:43:43,474 DEBUG [main] cache:45 - Loading template for "spark/partials/category.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/M1058748/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/partials/category.ftl"
+2021-11-03 08:43:43,476 DEBUG [main] cache:45 - Couldn't find template in cache for "spark/partials/device.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-11-03 08:43:43,476 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/device_en_US.ftl"): Not found
+2021-11-03 08:43:43,476 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/device_en.ftl"): Not found
+2021-11-03 08:43:43,477 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/device.ftl"): Found
+2021-11-03 08:43:43,477 DEBUG [main] cache:45 - Loading template for "spark/partials/device.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/M1058748/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/partials/device.ftl"
+2021-11-03 08:43:43,478 DEBUG [main] cache:45 - Couldn't find template in cache for "spark/partials/author.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-11-03 08:43:43,479 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/author_en_US.ftl"): Not found
+2021-11-03 08:43:43,480 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/author_en.ftl"): Not found
+2021-11-03 08:43:43,480 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/author.ftl"): Found
+2021-11-03 08:43:43,481 DEBUG [main] cache:45 - Loading template for "spark/partials/author.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/M1058748/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/partials/author.ftl"
+2021-11-03 08:43:43,482 DEBUG [main] cache:45 - Couldn't find template in cache for "spark/partials/log.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-11-03 08:43:43,483 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/log_en_US.ftl"): Not found
+2021-11-03 08:43:43,483 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/log_en.ftl"): Not found
+2021-11-03 08:43:43,483 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/log.ftl"): Found
+2021-11-03 08:43:43,484 DEBUG [main] cache:45 - Loading template for "spark/partials/log.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/M1058748/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/partials/log.ftl"
+2021-11-03 08:43:43,485 DEBUG [main] cache:45 - Couldn't find template in cache for "spark/partials/dashboard.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-11-03 08:43:43,486 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/dashboard_en_US.ftl"): Not found
+2021-11-03 08:43:43,486 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/dashboard_en.ftl"): Not found
+2021-11-03 08:43:43,487 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/dashboard.ftl"): Found
+2021-11-03 08:43:43,487 DEBUG [main] cache:45 - Loading template for "spark/partials/dashboard.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/M1058748/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/partials/dashboard.ftl"
+2021-11-03 08:43:43,534 DEBUG [main] cache:45 - Couldn't find template in cache for "spark/partials/scripts.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-11-03 08:43:43,535 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/scripts_en_US.ftl"): Not found
+2021-11-03 08:43:43,536 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/scripts_en.ftl"): Not found
+2021-11-03 08:43:43,537 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/scripts.ftl"): Found
+2021-11-03 08:43:43,537 DEBUG [main] cache:45 - Loading template for "spark/partials/scripts.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/M1058748/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/partials/scripts.ftl"
+2021-11-03 08:43:43,540 DEBUG [main] cache:45 - Couldn't find template in cache for "commons/commons-inject-js.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-11-03 08:43:43,540 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("commons/commons-inject-js_en_US.ftl"): Not found
+2021-11-03 08:43:43,541 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("commons/commons-inject-js_en.ftl"): Not found
+2021-11-03 08:43:43,542 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("commons/commons-inject-js.ftl"): Found
+2021-11-03 08:43:43,542 DEBUG [main] cache:45 - Loading template for "commons/commons-inject-js.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/M1058748/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/commons/commons-inject-js.ftl"
+2021-11-06 15:12:47,846  INFO [main] BasePage:50 - 
+2021-11-06 15:12:47,849  INFO [main] BasePage:51 - 
+2021-11-06 15:35:17,140  INFO [main] BasePage:50 - 
+2021-11-06 15:35:17,142  INFO [main] BasePage:51 - 
+2021-11-06 15:41:53,292  INFO [main] BasePage:50 - 
+2021-11-06 15:41:53,295  INFO [main] BasePage:51 - 
+2021-11-06 15:48:13,552  INFO [main] BasePage:50 - 
+2021-11-06 15:48:13,554  INFO [main] BasePage:51 - 
+2021-11-06 15:57:58,914  INFO [main] BasePage:50 - 
+2021-11-06 15:57:58,917  INFO [main] BasePage:51 - 
+2021-11-06 15:58:51,849  INFO [main] BasePage:50 - 
+2021-11-06 15:58:51,852  INFO [main] BasePage:51 - 
+2021-11-06 16:09:10,589  INFO [main] BasePage:50 - 
+2021-11-06 16:09:10,591  INFO [main] BasePage:51 - 
+2021-11-06 16:10:13,134  INFO [main] BasePage:50 - 
+2021-11-06 16:10:13,135  INFO [main] BasePage:51 - 
+2021-11-06 16:18:04,064  INFO [main] BasePage:50 - 
+2021-11-06 16:18:04,065  INFO [main] BasePage:51 - 
+2021-11-06 16:19:21,089  INFO [main] BasePage:50 - 
+2021-11-06 16:19:21,091  INFO [main] BasePage:51 - 
+2021-11-06 16:23:47,218  INFO [main] BasePage:50 - 
+2021-11-06 16:23:47,220  INFO [main] BasePage:51 - 
+2021-11-06 16:38:35,705  INFO [main] BasePage:50 - 
+2021-11-06 16:38:35,707  INFO [main] BasePage:51 - 
+2021-11-06 16:40:35,938  INFO [main] BasePage:50 - 
+2021-11-06 16:40:35,939  INFO [main] BasePage:51 - 
+2021-11-06 16:49:30,959  INFO [main] BasePage:50 - 
+2021-11-06 16:49:30,961  INFO [main] BasePage:51 - 
+2021-11-08 13:18:32,868  INFO [main] BasePage:50 - 
+2021-11-08 13:18:32,870  INFO [main] BasePage:51 - 
+2021-11-08 18:11:58,387  INFO [main] BasePage:50 - 
+2021-11-08 18:11:58,389  INFO [main] BasePage:51 - 
+2021-11-08 18:14:02,886  INFO [main] BasePage:50 - 
+2021-11-08 18:14:02,887  INFO [main] BasePage:51 - 
+2021-11-08 18:15:24,444  INFO [main] BasePage:50 - 
+2021-11-08 18:15:24,447  INFO [main] BasePage:51 - 
+2021-11-08 18:16:10,672  INFO [main] BasePage:50 - 
+2021-11-08 18:16:10,675  INFO [main] BasePage:51 - 
+2021-11-10 10:34:33,285  INFO [main] BasePage:50 - 
+2021-11-10 10:34:33,289  INFO [main] BasePage:51 - 
+2021-11-10 12:16:28,328  INFO [main] BasePage:50 - 
+2021-11-10 12:16:28,330  INFO [main] BasePage:51 - 

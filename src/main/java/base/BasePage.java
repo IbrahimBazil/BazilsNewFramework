@@ -24,11 +24,13 @@ public class BasePage {
 
 	public WebDriver driver;
 	public Properties prop;
+	public Properties dataprop;
 	public static String path = System.getProperty("user.dir");
 	public String browserName;
 	public static String highlight;
 	public static ThreadLocal<WebDriver> tlDriver = new ThreadLocal<WebDriver>();
 	public FileInputStream fis;
+	public FileInputStream fis1;
 	public ChromeOptions co;
 	public FirefoxOptions fo;
 	public static final Logger log = Logger.getLogger(BasePage.class);
@@ -120,6 +122,23 @@ public class BasePage {
 		return prop;
 
 	}
+	
+	
+	public Properties dataproperties() {
+		dataprop = new Properties();
+		try {
+			fis1 = new FileInputStream(path + "//data.properties");
+			prop.load(fis1);
+		} catch (FileNotFoundException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		} catch (IOException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+		return dataprop;
+	}
+	
 	/*
 	 * public String getScreenshot(String TestCaseName, WebDriver driver) throws
 	 * IOException { //driver=this.driver; String date = new

@@ -1,234 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" ignored="0" total="9" passed="9">
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="468811" started-at="2021-10-05T12:38:42 IST" finished-at="2021-10-05T12:46:31 IST">
+  <suite name="Default suite" duration-ms="11286" started-at="2021-11-10T12:16:28 IST" finished-at="2021-11-10T12:16:39 IST">
     <groups>
     </groups>
-    <test name="Test" duration-ms="468811" started-at="2021-10-05T12:38:42 IST" finished-at="2021-10-05T12:46:31 IST">
-      <class name="recaptcha_test.DirectSignup">
-        <test-method status="PASS" signature="launchsite(java.lang.String,java.lang.String)[pri:0, instance:recaptcha_test.DirectSignup@478190fc]" name="launchsite" is-config="true" duration-ms="2018" started-at="2021-10-05T12:46:12 IST" finished-at="2021-10-05T12:46:14 IST">
+    <test name="Default test" duration-ms="11286" started-at="2021-11-10T12:16:28 IST" finished-at="2021-11-10T12:16:39 IST">
+      <class name="testcase.testcase1">
+        <test-method status="PASS" signature="launchsite(java.lang.String,java.lang.String)[pri:0, instance:testcase.testcase1@306279ee]" name="launchsite" is-config="true" duration-ms="5777" started-at="2021-11-10T12:16:28 IST" finished-at="2021-11-10T12:16:34 IST">
           <params>
             <param index="0">
-              <value>
-                <![CDATA[chrome]]>
-              </value>
+              <value is-null="true"/>
             </param>
             <param index="1">
-              <value>
-                <![CDATA[80]]>
-              </value>
+              <value is-null="true"/>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- launchsite -->
-        <test-method status="PASS" signature="launchsite(java.lang.String)[pri:0, instance:recaptcha_test.DirectSignup@478190fc]" name="launchsite" is-config="true" duration-ms="10451" started-at="2021-10-05T12:46:14 IST" finished-at="2021-10-05T12:46:25 IST">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[CB]]>
-              </value>
-            </param>
-          </params>
+        <test-method status="PASS" signature="createconnection()[pri:0, instance:testcase.testcase1@306279ee]" name="createconnection" is-config="true" duration-ms="3746" started-at="2021-11-10T12:16:34 IST" finished-at="2021-11-10T12:16:37 IST">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- launchsite -->
-        <test-method status="PASS" signature="DirectSignupContact()[pri:0, instance:recaptcha_test.DirectSignup@478190fc]" name="DirectSignupContact" duration-ms="5365" started-at="2021-10-05T12:46:25 IST" finished-at="2021-10-05T12:46:30 IST">
+        </test-method> <!-- createconnection -->
+        <test-method status="PASS" signature="database_validation()[pri:0, instance:testcase.testcase1@306279ee]" name="database_validation" duration-ms="515" started-at="2021-11-10T12:16:37 IST" finished-at="2021-11-10T12:16:38 IST">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- DirectSignupContact -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:recaptcha_test.DirectSignup@478190fc]" name="tearDown" is-config="true" duration-ms="831" started-at="2021-10-05T12:46:30 IST" finished-at="2021-10-05T12:46:31 IST">
+        </test-method> <!-- database_validation -->
+        <test-method status="PASS" signature="closeconnection()[pri:0, instance:testcase.testcase1@306279ee]" name="closeconnection" is-config="true" duration-ms="494" started-at="2021-11-10T12:16:38 IST" finished-at="2021-11-10T12:16:38 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeconnection -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testcase.testcase1@306279ee]" name="tearDown" is-config="true" duration-ms="708" started-at="2021-11-10T12:16:38 IST" finished-at="2021-11-10T12:16:39 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-      </class> <!-- recaptcha_test.DirectSignup -->
-      <class name="recaptcha_test.AgentWebSite">
-        <test-method status="PASS" signature="launchsite(java.lang.String,java.lang.String)[pri:0, instance:recaptcha_test.AgentWebSite@38c6f217]" name="launchsite" is-config="true" duration-ms="2015" started-at="2021-10-05T12:45:14 IST" finished-at="2021-10-05T12:45:16 IST">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[chrome]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA[80]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- launchsite -->
-        <test-method status="PASS" signature="launchAgentWebsite(java.lang.String)[pri:0, instance:recaptcha_test.AgentWebSite@38c6f217]" name="launchAgentWebsite" is-config="true" duration-ms="29224" started-at="2021-10-05T12:45:16 IST" finished-at="2021-10-05T12:45:45 IST">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[CB]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- launchAgentWebsite -->
-        <test-method status="PASS" signature="contactAgent()[pri:0, instance:recaptcha_test.AgentWebSite@38c6f217]" name="contactAgent" duration-ms="25727" started-at="2021-10-05T12:45:45 IST" finished-at="2021-10-05T12:46:11 IST">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- contactAgent -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:recaptcha_test.AgentWebSite@38c6f217]" name="tearDown" is-config="true" duration-ms="923" started-at="2021-10-05T12:46:12 IST" finished-at="2021-10-05T12:46:12 IST">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- tearDown -->
-      </class> <!-- recaptcha_test.AgentWebSite -->
-      <class name="recaptcha_test.ListView">
-        <test-method status="PASS" signature="launchsite(java.lang.String,java.lang.String)[pri:0, instance:recaptcha_test.ListView@6b81ce95]" name="launchsite" is-config="true" duration-ms="3570" started-at="2021-10-05T12:38:42 IST" finished-at="2021-10-05T12:38:46 IST">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[chrome]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA[80]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- launchsite -->
-        <test-method status="PASS" signature="launchsite(java.lang.String)[pri:0, instance:recaptcha_test.ListView@6b81ce95]" name="launchsite" is-config="true" duration-ms="7163" started-at="2021-10-05T12:38:46 IST" finished-at="2021-10-05T12:38:53 IST">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[CB]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- launchsite -->
-        <test-method status="PASS" signature="saveSearchListView()[pri:1, instance:recaptcha_test.ListView@6b81ce95]" name="saveSearchListView" duration-ms="44795" started-at="2021-10-05T12:38:53 IST" finished-at="2021-10-05T12:39:38 IST">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- saveSearchListView -->
-        <test-method status="PASS" signature="launchsite(java.lang.String)[pri:0, instance:recaptcha_test.ListView@6b81ce95]" name="launchsite" is-config="true" duration-ms="10331" started-at="2021-10-05T12:39:39 IST" finished-at="2021-10-05T12:39:49 IST">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[CB]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- launchsite -->
-        <test-method status="PASS" signature="HeartIconinListView()[pri:2, instance:recaptcha_test.ListView@6b81ce95]" name="HeartIconinListView" duration-ms="50725" started-at="2021-10-05T12:39:49 IST" finished-at="2021-10-05T12:40:40 IST">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- HeartIconinListView -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:recaptcha_test.ListView@6b81ce95]" name="tearDown" is-config="true" duration-ms="918" started-at="2021-10-05T12:40:40 IST" finished-at="2021-10-05T12:40:41 IST">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- tearDown -->
-      </class> <!-- recaptcha_test.ListView -->
-      <class name="recaptcha_test.HomeDetailsPage">
-        <test-method status="PASS" signature="launchsite(java.lang.String,java.lang.String)[pri:0, instance:recaptcha_test.HomeDetailsPage@2d7275fc]" name="launchsite" is-config="true" duration-ms="2154" started-at="2021-10-05T12:40:41 IST" finished-at="2021-10-05T12:40:43 IST">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[chrome]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA[80]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- launchsite -->
-        <test-method status="PASS" signature="launchsite(java.lang.String)[pri:0, instance:recaptcha_test.HomeDetailsPage@2d7275fc]" name="launchsite" is-config="true" duration-ms="6603" started-at="2021-10-05T12:40:43 IST" finished-at="2021-10-05T12:40:50 IST">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[CB]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- launchsite -->
-        <test-method status="PASS" signature="RequestShowing()[pri:1, instance:recaptcha_test.HomeDetailsPage@2d7275fc]" name="RequestShowing" duration-ms="38025" started-at="2021-10-05T12:40:50 IST" finished-at="2021-10-05T12:41:28 IST">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- RequestShowing -->
-        <test-method status="PASS" signature="launchsite(java.lang.String)[pri:0, instance:recaptcha_test.HomeDetailsPage@2d7275fc]" name="launchsite" is-config="true" duration-ms="10577" started-at="2021-10-05T12:41:28 IST" finished-at="2021-10-05T12:41:39 IST">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[CB]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- launchsite -->
-        <test-method status="PASS" signature="SaveHomeInDetailsPage()[pri:2, instance:recaptcha_test.HomeDetailsPage@2d7275fc]" name="SaveHomeInDetailsPage" duration-ms="35805" started-at="2021-10-05T12:41:39 IST" finished-at="2021-10-05T12:42:15 IST">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- SaveHomeInDetailsPage -->
-        <test-method status="PASS" signature="launchsite(java.lang.String)[pri:0, instance:recaptcha_test.HomeDetailsPage@2d7275fc]" name="launchsite" is-config="true" duration-ms="58298" started-at="2021-10-05T12:42:15 IST" finished-at="2021-10-05T12:43:13 IST">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[CB]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- launchsite -->
-        <test-method status="PASS" signature="RequestMoreInfo()[pri:3, instance:recaptcha_test.HomeDetailsPage@2d7275fc]" name="RequestMoreInfo" duration-ms="35891" started-at="2021-10-05T12:43:13 IST" finished-at="2021-10-05T12:43:49 IST">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- RequestMoreInfo -->
-        <test-method status="PASS" signature="launchsite(java.lang.String)[pri:0, instance:recaptcha_test.HomeDetailsPage@2d7275fc]" name="launchsite" is-config="true" duration-ms="9174" started-at="2021-10-05T12:43:50 IST" finished-at="2021-10-05T12:43:59 IST">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[CB]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- launchsite -->
-        <test-method status="PASS" signature="GoSeeThisHome()[pri:4, instance:recaptcha_test.HomeDetailsPage@2d7275fc]" name="GoSeeThisHome" duration-ms="35938" started-at="2021-10-05T12:43:59 IST" finished-at="2021-10-05T12:44:35 IST">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- GoSeeThisHome -->
-        <test-method status="PASS" signature="launchsite(java.lang.String)[pri:0, instance:recaptcha_test.HomeDetailsPage@2d7275fc]" name="launchsite" is-config="true" duration-ms="11178" started-at="2021-10-05T12:44:35 IST" finished-at="2021-10-05T12:44:46 IST">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[CB]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- launchsite -->
-        <test-method status="PASS" signature="TourThisHomeInHD()[pri:5, instance:recaptcha_test.HomeDetailsPage@2d7275fc]" name="TourThisHomeInHD" duration-ms="25874" started-at="2021-10-05T12:44:46 IST" finished-at="2021-10-05T12:45:12 IST">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- TourThisHomeInHD -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:recaptcha_test.HomeDetailsPage@2d7275fc]" name="tearDown" is-config="true" duration-ms="986" started-at="2021-10-05T12:45:13 IST" finished-at="2021-10-05T12:45:14 IST">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- tearDown -->
-      </class> <!-- recaptcha_test.HomeDetailsPage -->
-    </test> <!-- Test -->
-  </suite> <!-- Suite -->
+      </class> <!-- testcase.testcase1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
 </testng-results>
