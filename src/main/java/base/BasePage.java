@@ -29,8 +29,10 @@ public class BasePage {
 	public static String highlight;
 	public static ThreadLocal<WebDriver> tlDriver = new ThreadLocal<WebDriver>();
 	public FileInputStream fis;
+	public FileInputStream fis1;
 	public ChromeOptions co;
 	public FirefoxOptions fo;
+	public static Properties dataprop;
 	public static final Logger log = Logger.getLogger(BasePage.class);
 	// private static String OUTPUT_FOLDER ="./reports/Screenshots/";
 	protected static String FILE_NAME;
@@ -119,6 +121,21 @@ public class BasePage {
 		}
 		return prop;
 
+	}
+	
+	public Properties dataproperties() {
+		dataprop = new Properties();
+		try {
+			fis1 = new FileInputStream(path + "//data.properties");
+			prop.load(fis1);
+		} catch (FileNotFoundException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		} catch (IOException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+		return dataprop;
 	}
 	/*
 	 * public String getScreenshot(String TestCaseName, WebDriver driver) throws
