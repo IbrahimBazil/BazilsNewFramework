@@ -19,6 +19,7 @@ public class testcase1 extends BaseTest {
 		elu.doSendKeys(search_txt, "IPhone13");
 		// driver.findElement(By.xpath("//input[@type='text']")).isDisplayed();
 		Assert.assertTrue(search_txt.isDisplayed(), "Pass");
+		System.out.println("Test");
 	}
 
 	@Test(priority = 2)
