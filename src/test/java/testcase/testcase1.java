@@ -30,8 +30,8 @@ public class testcase1 extends DatabaseConnection {
 	@Test
 	public void database_validation() throws SQLException, IOException {
 		// Properties prop= loadproperties();
-		//dataprop = dataproperties();
-		//String query = prop.getProperty("customerTable_query");
+		// dataprop = dataproperties();
+		// String query = prop.getProperty("customerTable_query");
 		// String query="select customer_id, login, bdr.customer.FIRST_NAME, LAST=_NAME,
 		// PASSWORD ,PASSWORD_RESET_DATE from bdr.customer where
 		// customer_id='13743196'";
@@ -40,7 +40,7 @@ public class testcase1 extends DatabaseConnection {
 		while (results.next()) {
 			String login = results.getString("LOGIN");
 			String first_name = results.getString("FIRST_NAME");
-			String city_name=results.getString("CITY");
+			String city_name = results.getString("CITY");
 			System.out.println("Login id is: " + login);
 			System.out.println("First Name is " + first_name);
 			System.out.println("City is " + city_name);
