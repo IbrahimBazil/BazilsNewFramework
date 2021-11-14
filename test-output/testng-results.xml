@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="1" ignored="0" total="1" passed="0">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="12278" started-at="2021-11-14T17:50:52 IST" finished-at="2021-11-14T17:51:05 IST">
+  <suite name="Default suite" duration-ms="9278" started-at="2021-11-14T18:00:55 IST" finished-at="2021-11-14T18:01:04 IST">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="12278" started-at="2021-11-14T17:50:52 IST" finished-at="2021-11-14T17:51:05 IST">
+    <test name="Default test" duration-ms="9278" started-at="2021-11-14T18:00:55 IST" finished-at="2021-11-14T18:01:04 IST">
       <class name="testcase.testcase1">
-        <test-method status="PASS" signature="launchsite(java.lang.String,java.lang.String)[pri:0, instance:testcase.testcase1@710726a3]" name="launchsite" is-config="true" duration-ms="11355" started-at="2021-11-14T17:50:52 IST" finished-at="2021-11-14T17:51:04 IST">
+        <test-method status="PASS" signature="launchsite(java.lang.String,java.lang.String)[pri:0, instance:testcase.testcase1@306279ee]" name="launchsite" is-config="true" duration-ms="3093" started-at="2021-11-14T18:00:55 IST" finished-at="2021-11-14T18:00:58 IST">
           <params>
             <param index="0">
               <value is-null="true"/>
@@ -19,15 +19,21 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- launchsite -->
-        <test-method status="PASS" signature="createconnection()[pri:0, instance:testcase.testcase1@710726a3]" name="createconnection" is-config="true" duration-ms="11" started-at="2021-11-14T17:51:04 IST" finished-at="2021-11-14T17:51:04 IST">
+        <test-method status="PASS" signature="createconnection()[pri:0, instance:testcase.testcase1@306279ee]" name="createconnection" is-config="true" duration-ms="4842" started-at="2021-11-14T18:00:58 IST" finished-at="2021-11-14T18:01:03 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- createconnection -->
-        <test-method status="FAIL" signature="database_validation()[pri:0, instance:testcase.testcase1@710726a3]" name="database_validation" duration-ms="15" started-at="2021-11-14T17:51:04 IST" finished-at="2021-11-14T17:51:04 IST">
-          <exception class="java.lang.NullPointerException">
+        <test-method status="FAIL" signature="database_validation()[pri:0, instance:testcase.testcase1@306279ee]" name="database_validation" duration-ms="100" started-at="2021-11-14T18:01:03 IST" finished-at="2021-11-14T18:01:03 IST">
+          <exception class="java.sql.SQLException">
+            <message>
+              <![CDATA[SQL statement to execute cannot be empty or null]]>
+            </message>
             <full-stacktrace>
-              <![CDATA[java.lang.NullPointerException
-at utilities.DatabaseConnection.executequery_dbconnection(DatabaseConnection.java:53)
+              <![CDATA[java.sql.SQLException: SQL statement to execute cannot be empty or null
+at oracle.jdbc.driver.OracleSql.initialize(OracleSql.java:124)
+at oracle.jdbc.driver.OracleStatement.executeQuery(OracleStatement.java:1677)
+at oracle.jdbc.driver.OracleStatementWrapper.executeQuery(OracleStatementWrapper.java:394)
+at utilities.DatabaseConnection.executequery_dbconnection(DatabaseConnection.java:54)
 at testcase.testcase1.database_validation(testcase1.java:39)
 at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
@@ -59,56 +65,15 @@ at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
 at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
 ]]>
             </full-stacktrace>
-          </exception> <!-- java.lang.NullPointerException -->
+          </exception> <!-- java.sql.SQLException -->
           <reporter-output>
           </reporter-output>
         </test-method> <!-- database_validation -->
-        <test-method status="FAIL" signature="closeconnection()[pri:0, instance:testcase.testcase1@710726a3]" name="closeconnection" is-config="true" duration-ms="0" started-at="2021-11-14T17:51:04 IST" finished-at="2021-11-14T17:51:04 IST">
-          <exception class="java.lang.NullPointerException">
-            <full-stacktrace>
-              <![CDATA[java.lang.NullPointerException
-at utilities.DatabaseConnection.close_dbconnection(DatabaseConnection.java:60)
-at testcase.testcase1.closeconnection(testcase1.java:52)
-at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
-at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
-at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
-at java.lang.reflect.Method.invoke(Unknown Source)
-at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
-at org.testng.internal.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:62)
-at org.testng.internal.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:385)
-at org.testng.internal.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:321)
-at org.testng.internal.TestInvoker.runConfigMethods(TestInvoker.java:700)
-at org.testng.internal.TestInvoker.runAfterGroupsConfigurations(TestInvoker.java:676)
-at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:660)
-at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
-at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
-at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)
-at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
-at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
-at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
-at java.util.ArrayList.forEach(Unknown Source)
-at org.testng.TestRunner.privateRun(TestRunner.java:794)
-at org.testng.TestRunner.run(TestRunner.java:596)
-at org.testng.SuiteRunner.runTest(SuiteRunner.java:377)
-at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:371)
-at org.testng.SuiteRunner.privateRun(SuiteRunner.java:332)
-at org.testng.SuiteRunner.run(SuiteRunner.java:276)
-at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
-at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
-at org.testng.TestNG.runSuitesSequentially(TestNG.java:1212)
-at org.testng.TestNG.runSuitesLocally(TestNG.java:1134)
-at org.testng.TestNG.runSuites(TestNG.java:1063)
-at org.testng.TestNG.run(TestNG.java:1031)
-at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
-at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
-at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
-]]>
-            </full-stacktrace>
-          </exception> <!-- java.lang.NullPointerException -->
+        <test-method status="PASS" signature="closeconnection()[pri:0, instance:testcase.testcase1@306279ee]" name="closeconnection" is-config="true" duration-ms="371" started-at="2021-11-14T18:01:03 IST" finished-at="2021-11-14T18:01:03 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeconnection -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:testcase.testcase1@710726a3]" name="tearDown" is-config="true" duration-ms="824" started-at="2021-11-14T17:51:04 IST" finished-at="2021-11-14T17:51:05 IST">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testcase.testcase1@306279ee]" name="tearDown" is-config="true" duration-ms="809" started-at="2021-11-14T18:01:03 IST" finished-at="2021-11-14T18:01:04 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
